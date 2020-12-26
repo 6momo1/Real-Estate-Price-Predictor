@@ -1,27 +1,34 @@
-def table(token):
-	try:
-		url = 'https://finviz.com/quote.ashx?t={}'.format(token)
-		headers = {'User-Agent':"Mozilla/5.0(Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36"}
-		req = requests.get(url, headers = headers)
-		soup = BeautifulSoup(req.content, 'html.parser')
-		table = soup.find_all("table", attrs = {'class':"snapshot-table2"})
-		lst = []
-		for row in range(12):
-			for col in range(12):
-				if (col % 2) == 0:
-					lst.append(urlify(table[0].find_all('tr')[row].find_all('td')[col].text))
-				else:
-					lst.append(table[0].find_all('tr')[row].find_all('td')[col].text)
-
-		dic = {"Token": token}
-
-		temp_dic = {lst[i]:lst[i+1] for i in range(0,len(lst),2)}
-		dic.update(temp_dic)
-		return dic
-	except Exception as e:
-		print(e)
+import time
+from selenium import webdriver
+from selenium.webdriver.common.keys import Keys
+from selenium.webdriver.support.ui import WebDriverWait
+from selenium.webdriver.common.by import By
+from bfs import get_info
 
 
-"https://www.rew.ca/properties/areas/arbutus-vancouver-bc"
+PATH = './chromedriver.exe'
 
-"https://www.rew.ca/properties/areas/east-burnaby-bc"
+area = 'kitsilano'
+city = 'vancouver'
+page = 2
+driver = webdriver.Chrome(PATH)  # Optional argument, if not specified will search path.
+url = 'https://www.rew.ca/properties/areas/{area}-{city}-bc/page/{page}'.format(area=area,city=city,page=page)
+li = []
+
+driver.get(url)
+
+elements = driver.find_elements_by_class_name('displaypanel-content')
+
+try:
+	for i in range(len(elements)):
+		driver.find_elements_by_class_name('displaypanel-content')[i].click()
+		li.append(get_info(driver.page_source))
+		driver.back()
+		time.sleep(3)
+except:
+	print(li)
+
+print('')
+
+print(len(li))
+print(li)
