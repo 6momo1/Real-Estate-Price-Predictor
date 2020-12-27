@@ -1,34 +1,49 @@
-import time
-from selenium import webdriver
-from selenium.webdriver.common.keys import Keys
-from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.common.by import By
 from bfs import get_info
+from selenium import webdriver
+from selenium.webdriver.support.ui import WebDriverWait
+from selenium.webdriver.support import expected_conditions as EC
+
+def scrapRew(area,city,page):
+	PATH = './chromedriver.exe'
+	driver = webdriver.Chrome()  # Optional argument, if not specified will search path.
+
+	url = f'https://www.rew.ca/properties/areas/{area}-{city}-bc/page/{page}'
+
+	driver.get(url)
+
+	li = {}
+
+	elements = driver.find_elements_by_class_name('displaypanel-content')
+
+	try:
+		for i in range(len(elements)):
+
+			try:
+				cards = WebDriverWait(driver, 10).until(
+					EC.presence_of_all_elements_located((By.CLASS_NAME, 'displaypanel-content')
+					)
+				) 
+				element = driver.find_elements_by_class_name('displaypanel-content')
+				element[i].click()
+			except Exception as e:
+				print(e)
+
+			try:
+				loaded = WebDriverWait(driver, 10).until(
+					EC.presence_of_all_elements_located((By.CLASS_NAME, 'propertyheader-address')
+					)
+				) 
+				try:
+					get_info(driver.page_source)
+				except:
+					pass
+				driver.back()
+
+			except Exception as e:
+				print(e)
+	except:
+		pass
+	driver.quit()
 
 
-PATH = './chromedriver.exe'
-
-area = 'kitsilano'
-city = 'vancouver'
-page = 2
-driver = webdriver.Chrome(PATH)  # Optional argument, if not specified will search path.
-url = 'https://www.rew.ca/properties/areas/{area}-{city}-bc/page/{page}'.format(area=area,city=city,page=page)
-li = []
-
-driver.get(url)
-
-elements = driver.find_elements_by_class_name('displaypanel-content')
-
-try:
-	for i in range(len(elements)):
-		driver.find_elements_by_class_name('displaypanel-content')[i].click()
-		li.append(get_info(driver.page_source))
-		driver.back()
-		time.sleep(3)
-except:
-	print(li)
-
-print('')
-
-print(len(li))
-print(li)

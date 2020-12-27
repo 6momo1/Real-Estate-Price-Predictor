@@ -1,10 +1,26 @@
 from bs4 import BeautifulSoup
 from collections import OrderedDict
 import json
+import csv
+
+
+
+def write_to_csv(data):
+
+    string = ''
+    li = []
+    for (k,v) in data.items():
+        li.append(v)
+
+    with open('house_data_test2.csv', mode='a',newline='') as employee_file:
+        employee_writer = csv.writer(employee_file, delimiter=',', quotechar='"', quoting=csv.QUOTE_MINIMAL)
+        employee_writer.writerow(li)
+
 
 
 def get_info(source_code):
-    # this function returns a dictionary about a real estate home information
+    # returns a dictionary then writes
+
     soup = BeautifulSoup(source_code, 'html.parser')
 
     table_data = []
@@ -22,9 +38,10 @@ def get_info(source_code):
                 elements.remove('')
         table_data.append(elements)
 
-    return json.dumps(OrderedDict(table_data))
+    data = OrderedDict(table_data)
 
-# html = 'html.txt'        
-# print(get_info(html))
+    write_to_csv(data)
+
+
 
 
