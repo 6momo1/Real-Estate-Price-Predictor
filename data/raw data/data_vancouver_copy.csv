@@ -1,4 +1,4 @@
-address,price,Bedrooms,Bath,Lot Size,Property Age,Gross Taxes for 2020,Area,Sub-Area/Community,Property Type,Title,Style,,,,,,,,,,,,,,,,,
+address,price,Bedrooms,Bath,Lot Size,Property Age,Gross Taxes for 2020,Area,area,Property Type,Title,Style,,,,,,,,,,,,,,,,,
 232 2565 W Broadway Avenue,"$1,065,000",2,3,Built in 1995 (25 yrs old),"$2,823",$481,Vancouver West,Kitsilano,Townhouse,Freehold Strata,Inside Unit,,,,,,,,,,,,,,,,,
 203 2160 Cornwall Avenue,"$948,000",2,2,Built in 1992 (28 yrs old),"$2,402",$508,Vancouver West,Kitsilano,Apt/Condo,Freehold Strata,End Unit,,,,,,,,,,,,,,,,,
 2781 W 15th Avenue,"$2,470,000",4,3,4026 ft²,Built in 1929 (91 yrs old),"$7,109",Vancouver West,Kitsilano,House,Freehold NonStrata,1 Storey,,,,,,,,,,,,,,,,,
