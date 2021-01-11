@@ -7,7 +7,7 @@ import requests, json
 from pprint import pprint
   
 # enter your api key here 
-api_key = 'AIzaSyAjVxeC6dpeYlBF99Ab9tFnxhxLhMZU9nQ'
+api_key = 'KEY'
 
 # url variable store url
 url = "https://maps.googleapis.com/maps/api/place/textsearch/json?"

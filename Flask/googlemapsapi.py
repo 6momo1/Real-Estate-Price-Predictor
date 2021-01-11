@@ -2,7 +2,7 @@ import googlemaps
 from datetime import datetime
 from pprint import pprint
 
-gmaps = googlemaps.Client(key='AIzaSyAjVxeC6dpeYlBF99Ab9tFnxhxLhMZU9nQ')
+gmaps = googlemaps.Client(key='KEY')
 
 # # Geocoding an address
 # geocode_result = gmaps.geocode('kitsilano')

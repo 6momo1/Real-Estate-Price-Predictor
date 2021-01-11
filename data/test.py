@@ -11,3 +11,4 @@ st = st.split(',')
 
 for i in st:
 	print(f"<option value='{i}'>{i}</option>")
+
