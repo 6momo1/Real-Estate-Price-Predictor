@@ -1,0 +1,141 @@
+{% extends "base.html" %}
+
+{% block title %}
+Maps
+{% endblock %}
+
+
+
+{% block content %}
+  <head>
+    <title>Add Map</title>
+    <script
+      src="https://maps.googleapis.com/maps/api/js?key=AIzaSyAjVxeC6dpeYlBF99Ab9tFnxhxLhMZU9nQ&callback=initMap&libraries=&v=weekly"
+      defer
+    ></script>
+
+    <style type="text/css">
+      /* Set the size of the div element that contains the map */
+      #map {
+        height: 400px;
+        /* The height is 400 pixels */
+        width: 100%;
+        /* The width is the width of the web page */
+      }
+    </style>
+
+    <script>
+      var data = {{ data|tojson }};
+      // Initialize and add the map
+      function initMap() {
+          // The location of Uluru
+          const uluru = data['location'];
+          // The map, centered at Uluru
+          const map = new google.maps.Map(document.getElementById("map"), {
+            zoom: 12,
+            center: uluru,
+          });
+
+          // The marker, positioned at Uluru
+          const marker = new google.maps.Marker({
+            position: uluru,
+            map: map,
+          });
+
+          if (typeof data['bound'] != 'undefined') {
+            // create a square
+            const rectangle = new google.maps.Rectangle({
+              strokeColor: "#FF0000",
+              strokeOpacity: 0.6,
+              strokeWeight: 2,
+              fillColor: "#FF0000",
+              fillOpacity: 0,
+              map,
+              bounds: {
+                north: data['bound']['north'],
+                south: data['bound']['south'],
+                east: data['bound']['east'],
+                west: data['bound']['west'],
+              }
+            });
+          }
+        }
+    </script>
+
+  </head>
+  
+    <body>
+      <h3>My Google Maps Demo</h3>
+
+      <form method="POST">
+        <input type="text" id="location" name="location" value=''>
+        <input type="submit" id="button" value="form">
+      </form>
+
+      <form method="POST">
+        <label for="location">Select an area from Vancouver West: </label>
+        <select name="location" id="location">
+          <option value="" disabled selected>Select your option</option>
+          <option value='Cambie'>Cambie</option>
+          <option value='Coal-Harbour'>Coal-Harbour</option>
+          <option value='Downtown-West'>Downtown-West</option>
+          <option value='Dunbar'>Dunbar</option>
+          <option value='Fairview'>Fairview</option>
+          <option value='False-Creek'>False-Creek</option>
+          <option value='Kerrisdale'>Kerrisdale</option>
+          <option value='Kitsilano'>Kitsilano</option>
+          <option value='MacKenzie-Heights'>MacKenzie-Heights</option>
+          <option value='Marpole'>Marpole</option>
+          <option value='Mount-Pleasant-West'>Mount-Pleasant-West</option>
+          <option value='Oakridge'>Oakridge</option>
+          <option value='Point Grey'>Point Grey</option>
+          <option value='Quilchena'>Quilchena</option>
+          <option value='Shaughnessy'>Shaughnessy</option>
+          <option value='South-Cambie'>South-Cambie</option>
+          <option value='South-Granville'>South-Granville</option>
+          <option value='Southlands'>Southlands</option>
+          <option value='Southwest-Marine'>Southwest-Marine</option>
+          <option value='University-(UBC)'>University-(UBC)</option>
+          <option value='West-End'>West-End</option>
+          <option value='Yaletown'>Yaletown</option>
+        </select>
+        <input type="submit" value="Submit">
+      </form>
+
+      <form method="POST">
+        <label for="location">Select an area from Vancouver East: </label>
+        <select name="location" id="location" >
+          <option value="" disabled selected>Select your option</option>
+          <option value='Champlain-Heights'>Champlain-Heights</option>
+          <option value='Collingwood'>Collingwood</option>
+          <option value='Downtown-East'>Downtown-East</option>
+          <option value='Fraser-East'>Fraser-East</option>
+          <option value='Fraserview-East'>Fraserview-East</option>
+          <option value='Grandview-East'>Grandview-East</option>
+          <option value='Hastings'>Hastings</option>
+          <option value='Hastings-Sunrise'>Hastings-Sunrise</option>
+          <option value='Killarney'>Killarney</option>
+          <option value='Knight'>Knight</option>
+          <option value='Main'>Main</option>
+          <option value='Mount-Pleasant-East'>Mount-Pleasant-East</option>
+          <option value='Renfrew'>Renfrew</option>
+          <option value='Renfrew-Heights'>Renfrew-Heights</option>
+          <option value='South-Vancouver'>South-Vancouver</option>
+          <option value='Victoria-East'>Victoria-East</option>
+        </select>
+        <input type="submit" value="Submit">
+      </form>
+
+
+      <h3>{{ location }}</h3>
+      <!--The div element for the map -->
+      <div id="map"></div>
+    </body>
+
+
+{% endblock %}
+
+
+{% block map %}
+
+{% endblock %}
