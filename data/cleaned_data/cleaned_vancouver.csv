@@ -1,0 +1,433 @@
+address,price,bedrooms,bath,lot_size,property_age,gross_tax_for_2020,area,Sub-Area/Community,Property_Type,title,style,heating_type,Depth,frontage
+2070 W 14th Avenue,378800,8.0,4.0,6250,98,10423,Vancouver West,Kitsilano,House,Freehold NonStrata,Reverse 2 Storey w/Bsmt,125,50.00 feet,R2493457
+2917 W 20th Avenue,428800,5.0,5.0,5129,7,12652,Vancouver West,Arbutus,House,Freehold NonStrata,2 Storey w/Bsmt.,Heat Recovery Ventilator,122.12,42.00 feet
+2688 W 19th Avenue,380000,6.0,6.0,6240,33,11176,Vancouver West,Arbutus,House,Freehold NonStrata,2 Storey,120,52.00 feet,R2520899
+3008 W 21st Avenue,278000,2.0,1.0,4026,79,7278,Vancouver West,Arbutus,House,Freehold NonStrata,1 Storey,122,33.00 feet,R2518002
+2848 W 20th Avenue,338000,5.0,4.0,4882,27,9251,Vancouver West,Arbutus,House,Freehold NonStrata,2 Storey w/Bsmt.,122.05,40.00 feet,R2511456
+2181 W 22nd Avenue,568000,6.0,7.0,6100,0,13110,Vancouver West,Arbutus,House,Freehold NonStrata,2 Storey w/Bsmt.,122,50.00 feet,R2506722
+4248 Quesnel Drive,538000,4.0,5.0,6469,25,17499,Vancouver West,Arbutus,House,Freehold NonStrata,2 Storey w/Bsmt.,129.38,50.00 feet,R2522523
+2833 W 18th Avenue,199800,3.0,2.0,3046,64,6474,Vancouver West,Arbutus,House,Freehold NonStrata,2 Storey,92.3,33.00 feet,R2514279
+2969 W 22nd Avenue,435000,5.0,6.0,5124,9,6983,Vancouver West,Arbutus,House,Freehold NonStrata,2 Storey w/Bsmt.,122,42.00 feet,R2504265
+2557 W King Edward Avenue,259800,4.0,2.0,6220,67,7860,Vancouver West,Arbutus,House,Freehold NonStrata,2 Storey,122,51.00 feet,R2502364
+2137 W 20th Avenue,369800,6.0,6.0,6100,28,11588,Vancouver West,Arbutus,House,Freehold NonStrata,2 Storey w/Bsmt.,122,50.00 feet,R2496211
+3950 Puget Drive,465000,5.0,5.0,8358,30,12753,Vancouver West,Arbutus,House,Freehold NonStrata,2 Storey w/Bsmt.,87/21/IRR,115.41 feet,R2486213
+2772 W 20th Avenue,278800,4.0,5.0,4026,25,8227,Vancouver West,Arbutus,House,Freehold NonStrata,2 Storey w/Bsmt.,122,33.00 feet,R2479298
+3231 Vine Street,335000,4.0,4.0,7500,31,9342,Vancouver West,Arbutus,House,Freehold NonStrata,2 Storey,150,50.00 feet,R2475315
+2796 W 21st Avenue,259900,5.0,3.0,4880,80,6726,Vancouver West,Arbutus,House,Freehold NonStrata,2 Storey w/Bsmt.,122,40.00 feet,R2461181
+1928 Stephens Street,228900,5.0,3.0,3000,110,8616,Vancouver West,Kitsilano,House,Freehold NonStrata,2 Storey w/Bsmt.,100,30.00 feet,R2521514
+2385 W 15th Avenue,556800,6.0,6.0,6250,1,14549,Vancouver West,Kitsilano,House,Freehold NonStrata,2 Storey w/Bsmt.,125,50.00 feet,R2515391
+1421 Walnut Street,390000,6.0,6.0,3317,108,8001,Vancouver West,Kitsilano,House,Freehold NonStrata,3 Storey,100.5,33.00 feet,R2509485
+3334 W 39th Avenue,439800,5.0,6.0,5075,4,10879,Vancouver West,Dunbar,House,Freehold NonStrata,2 Storey w/Bsmt.,Heat Recovery Ventilator,101.5,50.00 feet
+4035 W 30th Avenue,498000,6.0,4.0,6890,69,11002,Vancouver West,Dunbar,House,Freehold NonStrata,2 Storey,130,53.00 feet,R2523730
+3267 W 21st Avenue,438800,4.0,5.0,3928,0,8096,Vancouver West,Dunbar,House,Freehold NonStrata,2 Storey w/Bsmt.,122,32.20 feet,R2522623
+3919 W King Edward Avenue,274800,2.0,1.0,5124,82,8220,Vancouver West,Dunbar,House,Freehold NonStrata,2 Storey w/Bsmt.,122,42.00 feet,R2513897
+3965 W 32nd Avenue,438000,6.0,5.0,6435,15,14857,Vancouver West,Dunbar,House,Freehold NonStrata,2 Storey w/Bsmt.,Heat Recovery Ventilator,130,49.50 feet
+3569 W King Edward Avenue,274000,6.0,3.0,5612,90,8054,Vancouver West,Dunbar,House,Freehold NonStrata,2 Storey w/Bsmt.,122,46.00 feet,R2508311
+3336 W 35th Avenue,308000,3.0,3.0,6498,57,9500,Vancouver West,Dunbar,House,Freehold NonStrata,Rancher/Bungalow w/Bsmt.,129.95,50.00 feet,R2503539
+3334 W 39th Avenue,439800,5.0,6.0,5075,4,10879,Vancouver West,Dunbar,House,Freehold NonStrata,2 Storey w/Bsmt.,Heat Recovery Ventilator,101.5,50.00 feet
+3531 W 37th Avenue,398800,4.0,2.0,9300,96,10176,Vancouver West,Dunbar,House,Freehold NonStrata,2 Storey w/Bsmt.,141,66.00 feet,R2492442
+3479 W 19th Avenue,368000,7.0,4.0,5363,75,9714,Vancouver West,Dunbar,House,Freehold NonStrata,3 Storey,121.9,44.00 feet,R2476713
+3525 W 29th Avenue,468800,5.0,4.0,6500,33,10277,Vancouver West,Dunbar,House,Freehold NonStrata,2 Storey,130,50.00 feet,R2473407
+3635 W 20th Avenue,438800,5.0,7.0,4026,1,8293,Vancouver West,Dunbar,House,Freehold NonStrata,2 Storey w/Bsmt.,Heat Recovery Ventilator,122,33.00 feet
+3691 W 22nd Avenue,428800,4.0,6.0,4026,0,9109,Vancouver West,Dunbar,House,Freehold NonStrata,2 Storey w/Bsmt.,122,33.00 feet,R2524830
+3870 W 17th Avenue,276000,4.0,2.0,4137,95,7570,Vancouver West,Dunbar,House,Freehold NonStrata,2 Storey,125.35,33.00 feet,R2523234
+4085 W 29th Avenue,698000,5.0,6.0,6890,4,18069,Vancouver West,Dunbar,House,Freehold NonStrata,2 Storey w/Bsmt.,130,53.00 feet,R2522768
+3415 W 24th Avenue,258000,6.0,3.0,4026,79,7328,Vancouver West,Dunbar,House,Freehold NonStrata,2 Storey w/Bsmt.,122,33.00 feet,R2520578
+3334 W 39th Avenue,439800,5.0,6.0,5075,4,10879,Vancouver West,Dunbar,House,Freehold NonStrata,2 Storey w/Bsmt.,Heat Recovery Ventilator,101.5,50.00 feet
+3565 W 37th Avenue,380000,4.0,3.0,9257,96,10752,Vancouver West,Dunbar,House,Freehold NonStrata,2 Storey w/Bsmt.,140.25,66.00 feet,R2519131
+4063 W 36th Avenue,678000,6.0,7.0,6922,1,18543,Vancouver West,Dunbar,House,Freehold NonStrata,2 Storey w/Bsmt.,Heat Recovery Ventilator,133.11,52.00 feet
+3309 W 19th Avenue,998000,4.0,6.0,8646,5,30528,Vancouver West,Dunbar,House,Freehold NonStrata,2 Storey w/Bsmt.,121.6,71.10 feet,R2454206
+4042 W 27th Avenue,998000,4.0,5.0,6681,0,15704,Vancouver West,Dunbar,House,Freehold NonStrata,2 Storey w/Bsmt.,129.73,51.50 feet,R2515189
+3716-3718 W 16th Avenue,268000,4.0,3.0,3630,92,7375,Vancouver West,Dunbar,House,Freehold NonStrata,2 Storey w/Bsmt.,110,33.00 feet,R2513990
+4063 W 30th Avenue,398000,4.0,3.0,6890,69,12261,Vancouver West,Dunbar,House,Freehold NonStrata,Rancher/Bungalow w/Bsmt.,130,53.00 feet,R2511210
+3537 W 18th Avenue,398000,5.0,5.0,3665,2,9461,Vancouver West,Dunbar,House,Freehold NonStrata,2 Storey w/Bsmt.,Heat Recovery Ventilator,111,33.00 feet
+3839 W 35th Avenue,538000,7.0,6.0,6553,11,18802,Vancouver West,Dunbar,House,Freehold NonStrata,Reverse 2 Storey w/Bsmt,Heat Recovery Ventilator,131.07,50.00 feet
+4037 W 18th Avenue,356000,4.0,5.0,4472,9,6854,Vancouver West,Dunbar,House,Freehold NonStrata,Reverse 2 Storey w/Bsmt,135.5,33.00 feet,R2506185
+3556 W 17th Avenue,353800,5.0,5.0,3696,2,8878,Vancouver West,Dunbar,House,Freehold NonStrata,Reverse 2 Storey w/Bsmt,110,33.00 feet,R2504693
+3692 W 33rd Avenue,598000,5.0,7.0,7410,5,21583,Vancouver West,Dunbar,House,Freehold NonStrata,2 Storey w/Bsmt.,130,57.00 feet,R2499766
+3556 W 23rd Avenue,378000,4.0,5.0,4026,5,10280,Vancouver West,Dunbar,House,Freehold NonStrata,2 Storey w/Bsmt.,122,33.00 feet,R2495364
+3556 W 23rd Avenue,378000,4.0,5.0,4026,5,10280,Vancouver West,Dunbar,House,Freehold NonStrata,2 Storey w/Bsmt.,122,33.00 feet,R2495364
+3848 W 17th Avenue,338800,4.0,5.0,4092,13,9806,Vancouver West,Dunbar,House,Freehold NonStrata,2 Storey w/Bsmt.,124,33.00 feet,R2492911
+3580 W 18th Avenue,285000,3.0,3.0,4026,90,7848,Vancouver West,Dunbar,House,Freehold NonStrata,2 Storey w/Bsmt.,122,33.00 feet,R2491858
+4067 W 18th Avenue,359000,5.0,5.0,4533,16,9871,Vancouver West,Dunbar,House,Freehold NonStrata,2 Storey w/Bsmt.,Heat Recovery Ventilator,137.35,33.00 feet
+3334 W 39th Avenue,439800,5.0,6.0,5075,4,10879,Vancouver West,Dunbar,House,Freehold NonStrata,2 Storey w/Bsmt.,Heat Recovery Ventilator,101.5,50.00 feet
+3322 W 35th Avenue,389000,6.0,5.0,6498,33,10643,Vancouver West,Dunbar,House,Freehold NonStrata,2 Storey w/Bsmt.,129.5,50.00 feet,R2481668
+460 W 48th Avenue,389900,4.0,2.0,7320,73,9411,Vancouver West,Oakridge,House,Freehold NonStrata,2 Storey,122,60.00 feet,R2493888
+750 W 46th Avenue,388000,7.0,4.0,7102,56,9828,Vancouver West,Oakridge,House,Freehold NonStrata,2 Storey,122.45,58.00 feet,R2336567
+160 W 44th Avenue,288800,3.0,1.0,5731,72,8401,Vancouver West,Oakridge,House,Freehold NonStrata,2 Storey,123.25,46.50 feet,R2509811
+6363 Ontario Street,330000,6.0,5.0,5247,24,8256,Vancouver West,Oakridge,House,Freehold NonStrata,"2 Storey w/Bsmt.,Basement Entry",106,49.50 feet,R2505286
+57 W 42nd Avenue,208800,4.0,2.0,4026,66,6844,Vancouver West,Oakridge,House,Freehold NonStrata,Rancher/Bungalow w/Bsmt.,122,33.00 feet,R2302384
+460 W 45th Avenue,500000,11.0,11.0,8321,8,17829,Vancouver West,Oakridge,House,Freehold NonStrata,2 Storey w/Bsmt.,160.01,52.00 feet,R2411855
+6069 Fremlin Street,328800,4.0,3.0,7500,59,9955,Vancouver West,Oakridge,House,Freehold NonStrata,3 Storey,120,62.50 feet,R2410034
+407 W 43rd Avenue,980000,4.0,2.0,6270,71,9246,Vancouver West,Oakridge,House,Freehold NonStrata,Rancher/Bungalow w/Bsmt.,114,55.00 feet,R2409816
+433 W 44th Avenue,599000,6.0,5.0,0,26,13188,Vancouver West,Oakridge,House,Freehold NonStrata,2 Storey w/Bsmt.,123,53.50 feet,R2408893
+5564 Elizabeth Street,450000,3.0,3.0,5520,40,10078,Vancouver West,Cambie,House,Freehold NonStrata,2 Storey w/Bsmt.,115,48.00 feet,R2518667
+5578 Elizabeth Street,450000,5.0,5.0,5520,5,13845,Vancouver West,Cambie,House,Freehold NonStrata,2 Storey w/Bsmt.,Heat Recovery Ventilator,115,48.00 feet
+875 W 23rd Avenue,295000,9.0,6.0,5124,80,8210,Vancouver West,Cambie,House,Freehold NonStrata,Split Entry,122,42.00 feet,R2518609
+173 Peveril Avenue,268900,4.0,2.0,4728,78,8313,Vancouver West,Cambie,House,Freehold NonStrata,2 Storey,*124.9,40.00 feet,R2517888
+395 W 20th Avenue,278900,5.0,3.0,4986,90,9272,Vancouver West,Cambie,House,Freehold NonStrata,3 Storey,138.5,36.00 feet,R2511868
+650 W 27th Avenue,320000,6.0,3.0,7063,71,10771,Vancouver West,Cambie,House,Freehold NonStrata,1 Storey,125,56.50 feet,R2511713
+6922 Laurel Street,538800,7.0,6.0,8265,7,18172,Vancouver West,South Cambie,House,Freehold NonStrata,2 Storey w/Bsmt.,Heat Recovery Ventilator,145,57.00 feet
+925 W 52nd Avenue,388800,7.0,4.0,8700,30,11888,Vancouver West,South Cambie,House,Freehold NonStrata,2 Storey w/Bsmt.,60,145.00 feet,R2514838
+6949 Laurel Street,359000,5.0,5.0,8265,61,10246,Vancouver West,South Cambie,House,Freehold NonStrata,2 Storey w/Bsmt.,145,57.00 feet,R2513946
+6889 Cambie Street,840000,7.0,4.0,7795,55,31050,Vancouver West,South Cambie,House,Freehold NonStrata,2 Storey w/Bsmt.,130,60.00 feet,R2414419
+6650 Oak Street,399800,6.0,2.0,7776,62,9265,Vancouver West,South Cambie,House,Freehold NonStrata,2 Storey,144.14,54.00 feet,R2509426
+6868 Laurel Street,528000,6.0,8.0,8265,8,16354,Vancouver West,South Cambie,House,Freehold NonStrata,2 Storey w/Bsmt.,145,57.00 feet,R2495207
+6909 Cambie Street,840000,4.0,4.0,7795,61,9347,Vancouver West,South Cambie,House,Freehold NonStrata,2 Storey w/Bsmt.,130,60.00 feet,R2488081
+759 W 50th Avenue,488800,5.0,6.0,6600,1,11654,Vancouver West,South Cambie,House,Freehold NonStrata,2 Storey w/Bsmt.,120,55.00 feet,R2473276
+3872 W 10th Avenue,338800,4.0,6.0,4040,1,8933,Vancouver West,Point Grey,House,Freehold NonStrata,2 Storey w/Bsmt.,Heat Recovery Ventilator,122,33.00 feet
+3007 Crown Street,328800,4.0,4.0,3714,11,9496,Vancouver West,Point Grey,House,Freehold NonStrata,2 Storey w/Bsmt.,Heat Recovery Ventilator,112.56,33.00 feet
+4628 W 15th Avenue,338800,6.0,6.0,4026,3,8866,Vancouver West,Point Grey,House,Freehold NonStrata,2 Storey w/Bsmt.,122,33.00 feet,R2522321
+4261 W 13th Avenue,739900,5.0,7.0,6710,2,19386,Vancouver West,Point Grey,House,Freehold NonStrata,2 Storey w/Bsmt.,Heat Recovery Ventilator,122,55.00 feet
+4754 W 2nd Avenue,1198800,6.0,6.0,33838,99,50071,Vancouver West,Point Grey,House,Freehold NonStrata,2 Storey w/Bsmt.,338.38,100.00 feet,R2517751
+3122 Courtenay Street,288000,4.0,2.0,4046,79,7752,Vancouver West,Point Grey,House,Freehold NonStrata,2 Storey w/Bsmt.,121.85,33.20 feet,R2499822
+4307 W 13th Avenue,415000,5.0,5.0,4035,1,9912,Vancouver West,Point Grey,House,Freehold NonStrata,2 Storey w/Bsmt.,122.25,33.00 feet,R2493212
+3968 W 10th Avenue,255000,3.0,3.0,4029,41,7420,Vancouver West,Point Grey,House,Freehold NonStrata,2 Storey,122.1,33.00 feet,R2491204
+4519 W 12th Avenue,688000,5.0,8.0,6035,0,15192,Vancouver West,Point Grey,House,Freehold NonStrata,"2 Storey w/Bsmt.,Laneway House",Heat Recovery Ventilator,122,49.45 feet
+4205 W 12th Avenue,428800,8.0,8.0,4026,3,10316,Vancouver West,Point Grey,House,Freehold NonStrata,2 Storey w/Bsmt.,122,33.00 feet,R2525027
+4108 W 12th Avenue,418000,3.0,5.0,4026,0,9057,Vancouver West,Point Grey,House,Freehold NonStrata,3 Storey w/Bsmt,122,33.00 feet,R2524378
+4248 W 10th Avenue,388000,4.0,2.0,4026,5,8083,Vancouver West,Point Grey,House,Freehold NonStrata,2 Storey w/Bsmt.,122,33.00 feet,R2522784
+4343 W 12th Avenue,388000,4.0,6.0,4026,7,9206,Vancouver West,Point Grey,House,Freehold NonStrata,2 Storey w/Bsmt.,122,33.00 feet,R2521700
+4532 W 6th Avenue,458000,4.0,4.0,5287,77,14556,Vancouver West,Point Grey,House,Freehold NonStrata,2 Storey w/Bsmt.,112.5,47.00 feet,R2516484
+3853 W 14th Avenue,588000,8.0,7.0,5755,7,21311,Vancouver West,Point Grey,House,Freehold NonStrata,2 Storey w/Bsmt.,122.2,47.10 feet,R2516133
+4688 W 3rd Avenue,1388000,5.0,7.0,11088,8,54374,Vancouver West,Point Grey,House,Freehold NonStrata,2 Storey w/Bsmt.,168,66.00 feet,R2514807
+4648 W 8th Avenue,299800,4.0,4.0,3853,31,8245,Vancouver West,Point Grey,House,Freehold NonStrata,2 Storey w/Bsmt.,115,33.50 feet,R2514011
+4576 W 7th Avenue,348000,3.0,3.0,3723,14,10309,Vancouver West,Point Grey,House,Freehold NonStrata,2 Storey w/Bsmt.,112.8,33.00 feet,R2513853
+4434 W 1st Avenue,429800,5.0,4.0,5600,42,12241,Vancouver West,Point Grey,House,Freehold NonStrata,2 Storey w/Bsmt.,112,50.00 feet,R2511242
+4374 W 8th Avenue,488000,4.0,4.0,3802,0,9481,Vancouver West,Point Grey,House,Freehold NonStrata,2 Storey w/Bsmt.,115.2,33.00 feet,R2510999
+4150 W 8th Avenue,1050000,5.0,5.0,7809,10,39089,Vancouver West,Point Grey,House,Freehold NonStrata,2 Storey w/Bsmt.,111.55,70.00 feet,R2507491
+4639 Simpson Avenue,1198000,5.0,7.0,7080,6,50567,Vancouver West,Point Grey,House,Freehold NonStrata,2 Storey w/Bsmt.,118,60.00 feet,R2412221
+1948 W 41st Avenue,249800,4.0,2.0,4348,95,5594,Vancouver West,Kerrisdale,House,Freehold NonStrata,Rancher/Bungalow w/Bsmt.,127.86,34.00 feet,R2524294
+5375 Trafalgar Street,365000,6.0,5.0,5280,24,9303,Vancouver West,Kerrisdale,House,Freehold NonStrata,2 Storey w/Bsmt.,120,44.00 feet,R2520749
+6305 Mccleery Street,469800,4.0,4.0,9298,110,12994,Vancouver West,Kerrisdale,House,Freehold NonStrata,3 Storey,132,70.00 feet,R2515177
+3296 W 37th Avenue,298000,4.0,2.0,8316,90,9001,Vancouver West,Kerrisdale,House,Freehold NonStrata,Rancher/Bungalow w/Bsmt.,107.3,77.50 feet,R2505498
+2883 W 43rd Avenue,398800,3.0,6.0,4455,1,9718,Vancouver West,Kerrisdale,House,Freehold NonStrata,2 Storey w/Bsmt.,135,33.00 feet,R2502424
+3243 W 38th Avenue,289900,4.0,4.0,4290,75,8016,Vancouver West,Kerrisdale,House,Freehold NonStrata,3 Storey,130,33.00 feet,R2501287
+5968 Trafalgar Street,398800,6.0,7.0,7016,25,12063,Vancouver West,Kerrisdale,House,Freehold NonStrata,2 Storey w/Bsmt.,137.55,51.00 feet,R2477822
+5389 Larch Street,378000,5.0,4.0,8943,78,11000,Vancouver West,Kerrisdale,House,Freehold NonStrata,2 Storey w/Bsmt.,135.5,66.00 feet,R2456109
+2969 W 41st Avenue,299999,4.0,5.0,3696,6,7401,Vancouver West,Kerrisdale,House,Freehold NonStrata,2 Storey w/Bsmt.,Heat Recovery Ventilator,112,33.00 feet
+5595 Mackenzie Street,418800,4.0,2.0,10540,89,9160,Vancouver West,Kerrisdale,House,Freehold NonStrata,2 Storey w/Bsmt.,210.8,50.00 feet,R2521607
+2921 W 41st Avenue,338800,7.0,8.0,7375,5,13134,Vancouver West,Kerrisdale,House,Freehold NonStrata,2 Storey w/Bsmt.,163.9,45.00 feet,R2519746
+2193 W 46th Avenue,288800,5.0,4.0,4439,29,8412,Vancouver West,Kerrisdale,House,Freehold NonStrata,2 Storey w/Bsmt.,134.5,33.00 feet,R2519632
+6007 Larch Street,438990,5.0,6.0,4110,0,7565,Vancouver West,Kerrisdale,House,Freehold NonStrata,"2 Storey w/Bsmt.,Laneway House",125.33,32.79 feet,R2517402
+3033 W 42nd Avenue,298000,5.0,5.0,4444,24,8772,Vancouver West,Kerrisdale,House,Freehold NonStrata,2 Storey w/Bsmt.,135.47,32.80 feet,R2514163
+6768 Maple Street,399800,6.0,7.0,8924,27,9930,Vancouver West,Kerrisdale,House,Freehold NonStrata,2 Storey w/Bsmt.,198.3,45.00 feet,R2513483
+5510 Blenheim Street,298000,3.0,3.0,6392,84,7625,Vancouver West,Kerrisdale,House,Freehold NonStrata,2 Storey w/Bsmt.,130,49.17 feet,R2512256
+6520 Laburnum Street,549800,5.0,7.0,6240,5,17778,Vancouver West,Kerrisdale,House,Freehold NonStrata,2 Storey w/Bsmt.,130,48.00 feet,R2509951
+6187 Mackenzie Street,580000,4.0,3.0,7748,60,16228,Vancouver West,Kerrisdale,House,Freehold NonStrata,Rancher/Bungalow w/Bsmt.,Heat Recovery Ventilator,117.4,66.00 feet
+6248 Balaclava Street,868000,7.0,8.0,24070,25,40730,Vancouver West,Kerrisdale,House,Freehold NonStrata,2 Storey w/Bsmt.,277.3,86.80 feet,R2487436
+2069 W 48th Avenue,238800,5.0,3.0,3927,51,7281,Vancouver West,Kerrisdale,House,Freehold NonStrata,2 Storey w/Bsmt.,119,33.00 feet,R2483059
+6361 Larch Street,299900,4.0,3.0,6376,96,9761,Vancouver West,Kerrisdale,House,Freehold NonStrata,2 Storey w/Bsmt.,135.65,47.00 feet,R2465204
+6311 Larch Street,688000,5.0,7.0,8953,0,14150,Vancouver West,Kerrisdale,House,Freehold NonStrata,2 Storey w/Bsmt.,135.65,66.00 feet,R2463359
+731 W 17th Avenue,383800,4.0,8.0,4019,2,10195,Vancouver West,Fairview,House,Freehold NonStrata,2 Storey w/Bsmt.,122,33.00 feet,R2524785
+2935 W 27th Avenue,349900,3.0,2.0,6731,76,11905,Vancouver West,MacKenzie Heights,House,Freehold NonStrata,1 1/2 Storey,130 IRR,60.00 feet,R2487706
+3250 W 36th Avenue,398000,7.0,4.0,6513,91,10208,Vancouver West,MacKenzie Heights,House,Freehold NonStrata,3 Storey,130.25,50.00 feet,R2482919
+3242 W 29th Avenue,318900,5.0,3.0,5200,53,9148,Vancouver West,MacKenzie Heights,House,Freehold NonStrata,2 Storey,130,40.00 feet,R2463059
+2606 W 35th Avenue,468000,5.0,4.0,8040,44,12636,Vancouver West,MacKenzie Heights,House,Freehold NonStrata,2 Storey w/Bsmt.,134,60.00 feet,R2510691
+4910 Blenheim Street,498800,8.0,8.0,6832,6,13684,Vancouver West,MacKenzie Heights,House,Freehold NonStrata,2 Storey w/Bsmt.,122,56.00 feet,R2509148
+3206 W 32nd Avenue,368800,4.0,4.0,4394,12,9723,Vancouver West,MacKenzie Heights,House,Freehold NonStrata,2 Storey w/Bsmt.,Heat Recovery Ventilator,130,33.80 feet
+3249 W 33rd Avenue,229900,6.0,3.0,4290,80,6878,Vancouver West,MacKenzie Heights,House,Freehold NonStrata,2 Storey w/Bsmt.,130,33.00 feet,R2505688
+2956 W 36th Avenue,525000,6.0,6.0,7737,12,22392,Vancouver West,MacKenzie Heights,House,Freehold NonStrata,2 Storey w/Bsmt.,130.25,59.40 feet,R2482746
+4679 Puget Drive,488000,4.0,2.0,7020,79,14703,Vancouver West,MacKenzie Heights,House,Freehold NonStrata,2 Storey w/Bsmt.,123.13 IRR,57.00 feet,R2480319
+4889 Trafalgar Street,338000,6.0,6.0,5674,24,9781,Vancouver West,MacKenzie Heights,House,Freehold NonStrata,2 Storey w/Bsmt.,Heat Recovery Ventilator,118.7,47.80 feet
+2708 W 34th Avenue,699000,4.0,6.0,8400,3,23136,Vancouver West,MacKenzie Heights,House,Freehold NonStrata,2 Storey w/Bsmt.,140,60.00 feet,R2457298
+2971 W 31st Avenue,598000,5.0,6.0,6525,5,18985,Vancouver West,MacKenzie Heights,House,Freehold NonStrata,2 Storey w/Bsmt.,130.5,50.00 feet,R2442325
+2389 Mcbain Avenue,599000,6.0,6.0,6600,7,18396,Vancouver West,Quilchena,House,Freehold NonStrata,3 Storey,120,55.00 feet,R2518108
+2257 Mcmullen Avenue,599000,5.0,7.0,6243,2,16487,Vancouver West,Quilchena,House,Freehold NonStrata,2 Storey w/Bsmt.,120.05,52.00 feet,R2477793
+4855 Paton Street,458000,5.0,3.0,6370,59,10544,Vancouver West,Quilchena,House,Freehold NonStrata,2 Storey w/Bsmt.,117.96,54.00 feet,R2516788
+2126 W 34th Avenue,500000,2.0,4.0,12873,50,10273,Vancouver West,Quilchena,House,Freehold NonStrata,2 Storey w/Bsmt.,130.19,141.88 feet,R2505134
+2606 Edgar Crescent,598000,5.0,5.0,7487,26,14446,Vancouver West,Quilchena,House,Freehold NonStrata,2 Storey w/Bsmt.,122.81,68.70 feet,R2496918
+2175 W 32nd Avenue,638800,4.0,5.0,6834,5,15855,Vancouver West,Quilchena,House,Freehold NonStrata,2 Storey w/Bsmt.,Heat Recovery Ventilator,119.93,57.00 feet
+2475 W 35th Avenue,468000,6.0,6.0,7800,31,14106,Vancouver West,Quilchena,House,Freehold NonStrata,2 Storey w/Bsmt.,130,60.00 feet,R2492456
+2360 W King Edward Avenue,299000,3.0,2.0,7884,67,8649,Vancouver West,Quilchena,House,Freehold NonStrata,Rancher/Bungalow w/Bsmt.,130.6,66.92 feet,R2491765
+4729 Haggart Street,569100,5.0,7.0,7525,7,19523,Vancouver West,Quilchena,House,Freehold NonStrata,2 Storey w/Bsmt.,Heat Recovery Ventilator,125.25,60.08 feet
+2617 Mcbain Avenue,538000,5.0,6.0,6400,5,19359,Vancouver West,Quilchena,House,Freehold NonStrata,2 Storey w/Bsmt.,Heat Recovery Ventilator,122,54.00 feet
+2268 W 32nd Avenue,419000,7.0,4.0,6852,57,11877,Vancouver West,Quilchena,House,Freehold NonStrata,2 Storey w/Bsmt.,120,57.00 feet,R2482098
+2399 W 35th Avenue,699000,6.0,7.0,7800,1,12694,Vancouver West,Quilchena,House,Freehold NonStrata,2 Storey w/Bsmt.,Heat Recovery Ventilator,130,60.00 feet
+2143 W 36th Avenue,1188000,5.0,8.0,10050,2,25646,Vancouver West,Quilchena,House,Freehold NonStrata,2 Storey w/Bsmt.,134,75.00 feet,R2442184
+1438 W 32nd Avenue,2388000,7.0,10.0,15632,0,58142,Vancouver West,Shaughnessy,House,Freehold NonStrata,2 Storey w/Bsmt.,181/184,101.00 feet,R2522428
+5415 Cypress Street,468800,5.0,3.0,9516,93,14238,Vancouver West,Shaughnessy,House,Freehold NonStrata,2 Storey w/Bsmt.,122,78.00 feet,R2519183
+4768 Osler Street,565000,5.0,6.0,6000,3,12596,Vancouver West,Shaughnessy,House,Freehold NonStrata,2 Storey w/Bsmt.,Heat Recovery Ventilator,120,50.00 feet
+1288 Laurier Avenue,968800,6.0,7.0,16000,27,52699,Vancouver West,Shaughnessy,House,Freehold NonStrata,2 Storey w/Bsmt.,Heat Recovery Ventilator,200,80.00 feet
+1288 W 27th Avenue,428900,6.0,5.0,6250,36,10690,Vancouver West,Shaughnessy,House,Freehold NonStrata,3 Storey,125,50.00 feet,R2514170
+1476 W 33rd Avenue,389800,7.0,4.0,8750,100,8970,Vancouver West,Shaughnessy,House,Freehold NonStrata,2 Storey w/Bsmt.,125,70.00 feet,R2511559
+1469 Matthews Avenue,1289000,6.0,8.0,22056,108,52622,Vancouver West,Shaughnessy,House,Freehold NonStrata,3 Storey,Heat Recovery Ventilator,209,93.50 feet
+1020 Wolfe Avenue,588000,9.0,6.0,21186,44,25149,Vancouver West,Shaughnessy,House,Freehold NonStrata,2 Storey w/Bsmt.,149.1,92.84 feet,R2509431
+1736 W 37th Avenue,698000,4.0,4.0,12600,71,25105,Vancouver West,Shaughnessy,House,Freehold NonStrata,2 Storey,180,70.00 feet,R2505604
+1712 Cedar Crescent,1399800,5.0,4.0,23522,108,36805,Vancouver West,Shaughnessy,House,Freehold NonStrata,2 Storey w/Bsmt.,210,164.00 feet,R2503209
+1212 Balfour Avenue,789000,5.0,4.0,13199,97,35523,Vancouver West,Shaughnessy,House,Freehold NonStrata,3 Storey,116.8,113.00 feet,R2400217
+1080 Wolfe Avenue,1388800,5.0,5.0,27523,108,23354,Vancouver West,Shaughnessy,House,Freehold NonStrata,3 Storey,173.25,158.86 feet,R2488532
+4238 Pine Crescent,1099000,7.0,8.0,9450,1,26188,Vancouver West,Shaughnessy,House,Freehold NonStrata,2 Storey w/Bsmt.,Heat Recovery Ventilator,126,75.00 feet
+1121 Nanton Avenue,538000,6.0,7.0,6200,3,14144,Vancouver West,Shaughnessy,House,Freehold NonStrata,2 Storey w/Bsmt.,124,50.00 feet,R2482951
+4051 Cypress Street,1093000,5.0,7.0,15633,16,45143,Vancouver West,Shaughnessy,House,Freehold NonStrata,2 Storey w/Bsmt.,78,198.00 feet,R2474518
+1592 Nanton Avenue,578800,4.0,6.0,10000,59,16237,Vancouver West,Shaughnessy,House,Freehold NonStrata,2 Storey w/Bsmt.,124.9,80.00 feet,R2474054
+5637 Laburnum Street,988800,5.0,7.0,10164,1,40910,Vancouver West,Shaughnessy,House,Freehold NonStrata,3 Storey w/Bsmt,132,77.00 feet,R2456020
+1529 W 36th Avenue,999000,6.0,6.0,15400,98,37058,Vancouver West,Shaughnessy,House,Freehold NonStrata,2 Storey w/Bsmt.,140,110.00 feet,R2444238
+1307 W 41st Avenue,368800,4.0,2.0,8794,80,8950,Vancouver West,Shaughnessy,House,Freehold NonStrata,2 Storey,139.8,62.90 feet,R2427394
+1678 Somerset Crescent,1288000,4.0,5.0,25043,90,53653,Vancouver West,Shaughnessy,House,Freehold NonStrata,2 Storey w/Bsmt.,95,174.00 feet,R2410683
+1575 W 29th Avenue,588000,4.0,3.0,9900,77,16051,Vancouver West,Shaughnessy,House,Freehold NonStrata,Rancher/Bungalow w/Bsmt.,150,66.00 feet,R2523074
+1098 Wolfe Avenue,998000,5.0,6.0,17991,12,44905,Vancouver West,Shaughnessy,House,Freehold NonStrata,2 Storey w/Bsmt.,199.9,90.00 feet,R2522827
+5549 Cypress Street,510000,5.0,5.0,9760,91,17690,Vancouver West,Shaughnessy,House,Freehold NonStrata,4 Level Split,122,80.00 feet,R2521661
+1233 Tecumseh Avenue,3580000,7.0,8.0,25340,1,46835,Vancouver West,Shaughnessy,House,Freehold NonStrata,3 Storey,Heat Recovery Ventilator,IRR,126.00 feet
+4429 Marguerite Street,1198000,6.0,7.0,9000,5,49009,Vancouver West,Shaughnessy,House,Freehold NonStrata,2 Storey w/Bsmt.,125,72.00 feet,R2516560
+1491 Devonshire Crescent,435000,3.0,3.0,8775,89,9134,Vancouver West,Shaughnessy,House,Freehold NonStrata,3 Storey,130,67.50 feet,R2510178
+1376 W 26th Avenue,1088000,5.0,8.0,9375,3,37606,Vancouver West,Shaughnessy,House,Freehold NonStrata,2 Storey w/Bsmt.,125,75.00 feet,R2508211
+1289 W 40th Avenue,538000,6.0,6.0,8360,28,15860,Vancouver West,Shaughnessy,House,Freehold NonStrata,2 Storey,123,68.00 feet,R2504941
+4239 Pine Crescent,788000,6.0,8.0,7950,5,33547,Vancouver West,Shaughnessy,House,Freehold NonStrata,2 Storey w/Bsmt.,106,75.00 feet,R2503973
+5843 Highbury Street,488000,6.0,6.0,7920,4,12202,Vancouver West,Southlands,House,Freehold NonStrata,2 Storey w/Bsmt.,Heat Recovery Ventilator,120,66.00 feet
+7110 Blenheim Street,1899900,5.0,7.0,2,5,40477,Vancouver West,Southlands,House,Freehold NonStrata,2 Storey,290,330.00 feet,R2516069
+6196 Highbury Street,418000,5.0,6.0,7492,6,10607,Vancouver West,Southlands,House,Freehold NonStrata,2 Storey,113.2,66.00 feet,R2515433
+5687 Olympic Street,528800,9.0,8.0,7810,3,13818,Vancouver West,Southlands,House,Freehold NonStrata,"2 Storey w/Bsmt.,3 Storey",Heat Recovery Ventilator,110,71.00 feet
+5718 Alma Street,278900,5.0,3.0,6421,91,7185,Vancouver West,Southlands,House,Freehold NonStrata,2 Storey w/Bsmt.,136.6,47.00 feet,R2509947
+3070 W 49 Avenue,1380000,4.0,5.0,12,63,23876,Vancouver West,Southlands,House,Freehold NonStrata,2 Storey,330,167.00 feet,R2506273
+3483 Deering Island Place,388000,5.0,5.0,8052,26,11464,Vancouver West,Southlands,House,Freehold NonStrata,2 Storey,134.2,60.00 feet,R2491351
+3675 SW Marine Drive,316000,9.0,5.0,9400,79,7821,Vancouver West,Southlands,House,Freehold NonStrata,2 Storey w/Bsmt.,90.96,105.97 feet,R2483974
+3414 W 44th Avenue,540000,4.0,3.0,13000,81,15437,Vancouver West,Southlands,House,Freehold NonStrata,2 Storey w/Bsmt.,130,100.00 feet,R2461895
+5819 Wallace Street,378000,4.0,4.0,8877,33,11338,Vancouver West,Southlands,House,Freehold NonStrata,2 Storey w/Bsmt.,134.5,66.00 feet,R2422134
+5687 Holland Street,598000,8.0,10.0,10491,4,16160,Vancouver West,Southlands,House,Freehold NonStrata,2 Storey w/Bsmt.,134.5,78.00 feet,R2522483
+3528 W 39th Avenue,439800,5.0,5.0,5278,7,10815,Vancouver West,Southlands,House,Freehold NonStrata,2 Storey w/Bsmt.,Heat Recovery Ventilator,101.5,52.00 feet
+3819 SW Marine Drive,265000,5.0,4.0,6038,79,7189,Vancouver West,Southlands,House,Freehold NonStrata,2 Storey w/Bsmt.,100.63,68.35 feet,R2517642
+2318 SW Marine Drive,429000,6.0,6.0,14825,26,14881,Vancouver West,Southlands,House,Freehold NonStrata,2 Storey w/Bsmt.,156.29,95.00 feet,R2419055
+3556 W 38th Avenue,388800,4.0,6.0,5475,29,9958,Vancouver West,Southlands,House,Freehold NonStrata,2 Storey w/Bsmt.,109.5,50.00 feet,R2510658
+4025 W 38th Avenue,598000,6.0,6.0,6900,0,13617,Vancouver West,Southlands,House,Freehold NonStrata,2 Storey w/Bsmt.,Heat Recovery Ventilator,138,50.00 feet
+5661 Highbury Street,346000,4.0,5.0,9360,89,11535,Vancouver West,Southlands,House,Freehold NonStrata,2 Storey,120,78.00 feet,R2503822
+4011 W 38th Avenue,575000,4.0,6.0,6900,4,21154,Vancouver West,Southlands,House,Freehold NonStrata,2 Storey w/Bsmt.,Heat Recovery Ventilator,138,50.00 feet
+6650 Vine Street,274800,3.0,3.0,3453,42,6959,Vancouver West,Southwest Marine,House,Freehold NonStrata,2 Storey,99.8,34.60 feet,R2523214
+6650 Vine Street,274800,3.0,3.0,3453,42,6959,Vancouver West,Southwest Marine,House,Freehold NonStrata,2 Storey,99.8,34.60 feet,R2523214
+1869 W 64th Avenue,438000,7.0,8.0,7581,10,15215,Vancouver West,Southwest Marine,House,Freehold NonStrata,2 Storey w/Bsmt.,123,61.43 feet,R2510161
+1869 W 64th Avenue,438000,7.0,8.0,7581,10,15215,Vancouver West,Southwest Marine,House,Freehold NonStrata,2 Storey w/Bsmt.,123,61.43 feet,R2510161
+2606-2610 Marine Crescent,1288000,4.0,7.0,35869,92,31237,Vancouver West,Southwest Marine,House,Freehold NonStrata,2 Storey w/Bsmt.,183,196.20 feet,R2486033
+1958 W 60th Avenue,299000,4.0,2.0,7850,67,8935,Vancouver West,Southwest Marine,House,Freehold NonStrata,2 Storey,157,50.00 feet,R2521210
+1584 W 66th Avenue,209900,5.0,3.0,3987,90,6688,Vancouver West,Southwest Marine,House,Freehold NonStrata,2 Storey w/Bsmt.,120.8,33.00 feet,R2518439
+6989 Arbutus Diversion,388000,5.0,5.0,11014,28,9971,Vancouver West,Southwest Marine,House,Freehold NonStrata,2 Storey,0,0.00 feet,R2514899
+6664 Balsam Street,188000,2.0,1.0,1,95,6510,Vancouver West,Southwest Marine,House,Freehold NonStrata,2 Storey w/Bsmt.,100,34.50 feet,R2513040
+1518 W 68th Avenue,245000,4.0,4.0,3675,23,6471,Vancouver West,Southwest Marine,House,Freehold NonStrata,2 Storey w/Bsmt.,111.35,33.00 feet,R2511421
+8295 Angus Drive,328000,3.0,3.0,1,70,9402,Vancouver West,Southwest Marine,House,Freehold NonStrata,Rancher/Bungalow w/Bsmt.,10030,0.00 feet,R2508148
+6650 Vine Street,274800,3.0,3.0,3453,42,6959,Vancouver West,Southwest Marine,House,Freehold NonStrata,2 Storey,99.8,34.60 feet,R2523214
+6505 Yew Street,277680,5.0,3.0,5280,44,7204,Vancouver West,Southwest Marine,House,Freehold NonStrata,2 Storey,120,44.00 feet,R2504078
+1722 W 68th Avenue,273800,6.0,2.0,6000,69,8254,Vancouver West,Southwest Marine,House,Freehold NonStrata,2 Storey,120,50.00 feet,R2493520
+1925 SW Marine Drive,998000,5.0,8.0,18000,6,44943,Vancouver West,Southwest Marine,House,Freehold NonStrata,2 Storey w/Bsmt.,Heat Recovery Ventilator,180,100.00 feet
+2077 W 61st Avenue,888000,4.0,7.0,7850,0,13286,Vancouver West,Southwest Marine,House,Freehold NonStrata,2 Storey w/Bsmt.,Heat Recovery Ventilator,157,50.00 feet
+6812 Arbutus Street,698000,4.0,4.0,21945,79,18626,Vancouver West,Southwest Marine,House,Freehold NonStrata,2 Storey w/Bsmt.,231,95.00 feet,R2523502
+1563 W 66th Avenue,220000,5.0,3.0,4026,93,6546,Vancouver West,Southwest Marine,House,Freehold NonStrata,"2 Storey,Basement Entry",122,33.00 feet,R2439946
+4448 Nanaimo Street,155900,5.0,3.0,3808,35,5129,Vancouver East,Collingwood,House,Freehold NonStrata,"2 Storey,Basement Entry",113,33.70 feet,R2522111
+2549 E 27th Avenue,199800,10.0,8.0,3564,2,5482,Vancouver East,Collingwood,House,Freehold NonStrata,"2 Storey w/Bsmt.,Laneway House",108,33.00 feet,R2523619
+4448 Nanaimo Street,155900,5.0,3.0,3808,35,5129,Vancouver East,Collingwood,House,Freehold NonStrata,"2 Storey,Basement Entry",113,33.70 feet,R2522111
+5675 Rupert Street,300000,8.0,4.0,5868,63,5022,Vancouver East,Collingwood,House,Freehold NonStrata,"2 Storey,Laneway House",110.7,53.00 feet,R2521175
+5216 Rupert Street,185000,8.0,4.0,5280,61,4801,Vancouver East,Collingwood,House,Freehold NonStrata,"2 Storey,Laneway House",120,44.00 feet,R2517075
+5645 Rupert Street,158000,6.0,2.0,4153,66,5035,Vancouver East,Collingwood,House,Freehold NonStrata,2 Storey,125.84,33.00 feet,R2510113
+4987 Hoy Street,139900,7.0,2.0,3803,56,5195,Vancouver East,Collingwood,House,Freehold NonStrata,2 Storey,115.25,33.00 feet,R2504986
+5649 Rupert Street,158000,5.0,3.0,4153,64,5087,Vancouver East,Collingwood,House,Freehold NonStrata,2 Storey,125.84,33.00 feet,R2502462
+5239 Chester Street,149900,5.0,1.0,3630,108,5107,Vancouver East,Fraser East,House,Freehold NonStrata,"2 Storey,Rancher/Bungalow w/Bsmt.",110,33.00 feet,R2523441
+4435 Fraser Street,190000,3.0,2.0,3729,73,5356,Vancouver East,Fraser East,House,Freehold NonStrata,2 Storey,113,33.00 feet,R2520912
+448 E 45th Avenue,196800,7.0,4.0,4026,13,6231,Vancouver East,Fraser East,House,Freehold NonStrata,2 Storey,122,33.00 feet,R2517320
+4505 Harriet Street,184999,5.0,3.0,3847,59,5753,Vancouver East,Fraser East,House,Freehold NonStrata,"2 Storey,Split Entry",96.18,40.00 feet,R2508824
+1081 E 40th Avenue,228800,6.0,5.0,4305,2,6436,Vancouver East,Fraser East,House,Freehold NonStrata,"2 Storey,Laneway House",Heat Recovery Ventilator,130,33.00 feet
+532 E 17th Avenue,149900,5.0,4.0,3026,23,5868,Vancouver East,Fraser East,House,Freehold NonStrata,2 Storey,122,24.80 feet,R2501688
+543 E 21st Avenue,149900,5.0,2.0,3020,115,5523,Vancouver East,Fraser East,House,Freehold NonStrata,2 Storey w/Bsmt.,122,24.75 feet,R2480571
+4452 Prince Albert Street,279800,9.0,6.0,3840,4,5945,Vancouver East,Fraser East,House,Freehold NonStrata,"2 Storey w/Bsmt.,Laneway House",120,32.00 feet,R2456872
+503 E 19th Avenue,299900,4.0,4.0,4026,9,0,Vancouver East,Fraser East,House,Freehold NonStrata,3 Storey,122,33.00 feet,R2522476
+766 E 28th Avenue,154900,3.0,3.0,3510,108,5691,Vancouver East,Fraser East,House,Freehold NonStrata,2 Storey w/Bsmt.,108.65,32.30 feet,R2519803
+5508 Chester Street,249990,5.0,5.0,3500,1,5754,Vancouver East,Fraser East,House,Freehold NonStrata,3 Storey,100.5,34.83 feet,R2518552
+5247 Elgin Street,154800,3.0,2.0,3300,81,5052,Vancouver East,Fraser East,House,Freehold NonStrata,2 Storey w/Bsmt.,100,33.00 feet,R2513215
+728 E 37th Avenue,155000,6.0,3.0,4026,112,5660,Vancouver East,Fraser East,House,Freehold NonStrata,3 Storey,122,33.00 feet,R2511296
+6363 Chester Street,229800,10.0,7.0,4022,6,6199,Vancouver East,Fraser East,House,Freehold NonStrata,2 Storey w/Bsmt.,122,33.00 feet,R2510817
+886 E King Edward Avenue,288888,10.0,8.0,4524,4,6246,Vancouver East,Fraser East,House,Freehold NonStrata,2 Storey w/Bsmt.,9.91,32.50 feet,R2503036
+408 E 17th Avenue,185900,6.0,3.0,3396,72,5745,Vancouver East,Fraser East,House,Freehold NonStrata,2 Storey,122.5,27.72 feet,R2500549
+5696 Chester Street,238800,8.0,3.0,5639,74,5504,Vancouver East,Fraser East,House,Freehold NonStrata,2 Storey w/Bsmt.,112.22,50.25 feet,R2484765
+445 E 44th Avenue,148800,4.0,2.0,4026,61,5056,Vancouver East,Fraser East,House,Freehold NonStrata,2 Storey,122,33.00 feet,R2476875
+786 E 45th Avenue,118000,2.0,1.0,3020,90,4446,Vancouver East,Fraser East,House,Freehold NonStrata,2 Storey,99,30.50 feet,R2425010
+8191 Elliott Street,149800,5.0,3.0,5479,55,6109,Vancouver East,Fraserview East,House,Freehold NonStrata,2 Storey,123.89,47.00 feet,R2524924
+1938 E 64th Avenue,198000,6.0,5.0,4903,24,6363,Vancouver East,Fraserview East,House,Freehold NonStrata,2 Storey w/Bsmt.,110.18,44.50 feet,R2524640
+2387 Bonaccord Drive,234900,6.0,4.0,8437,28,7800,Vancouver East,Fraserview East,House,Freehold NonStrata,2 Storey w/Bsmt.,179.15,47.10 feet,R2510745
+1522 E 54th Avenue,169900,5.0,3.0,4720,50,5951,Vancouver East,Fraserview East,House,Freehold NonStrata,Basement Entry,118,40.00 feet,R2524686
+7225 Victoria Drive,179900,2.0,1.0,5332,70,6322,Vancouver East,Fraserview East,House,Freehold NonStrata,1 Storey,120,44.44 feet,R2524081
+1842 E 64th Avenue,244900,9.0,7.0,4177,3,6635,Vancouver East,Fraserview East,House,Freehold NonStrata,"2 Storey w/Bsmt.,Laneway House",83.5,50.00 feet,R2521733
+7558 Gladstone Street,258800,6.0,5.0,0,18,7711,Vancouver East,Fraserview East,House,Freehold NonStrata,2 Storey w/Bsmt.,130.5,47.38 feet,R2521555
+1787 E 57th Avenue,165000,4.0,2.0,6575,70,5191,Vancouver East,Fraserview East,House,Freehold NonStrata,2 Storey w/Bsmt.,104.15,90.00 feet,R2519511
+2031 Harrison Drive,366200,10.0,9.0,6810,2,7602,Vancouver East,Fraserview East,House,Freehold NonStrata,2 Storey w/Bsmt.,123.83,55.00 feet,R2518376
+1421 E 62nd Avenue,174900,5.0,2.0,5175,69,6047,Vancouver East,Fraserview East,House,Freehold NonStrata,Basement Entry,112.5,46.00 feet,R2516951
+1518 E 61st Avenue,185000,6.0,5.0,4511,30,5766,Vancouver East,Fraserview East,House,Freehold NonStrata,3 Storey,112.76,40.00 feet,R2516942
+2375 Burquitlam Drive,238800,6.0,6.0,6435,15,7865,Vancouver East,Fraserview East,House,Freehold NonStrata,2 Storey w/Bsmt.,143,45.00 feet,R2516288
+1538 E 57th Avenue,298800,8.0,8.0,5344,3,7554,Vancouver East,Fraserview East,House,Freehold NonStrata,"2 Storey w/Bsmt.,Laneway House",107.94,49.50 feet,R2512626
+1535 E 63rd Avenue,279900,9.0,8.0,5444,3,7545,Vancouver East,Fraserview East,House,Freehold NonStrata,"3 Storey,Laneway House",117.08,46.50 feet,R2512129
+7533 Ashburn Street,288000,7.0,7.0,6596,12,8767,Vancouver East,Fraserview East,House,Freehold NonStrata,Reverse 2 Storey w/Bsmt,132,49.97 feet,R2507902
+2425 SE Marine Drive Drive,179999,6.0,2.0,5798,54,5448,Vancouver East,Fraserview East,House,Freehold NonStrata,2 Storey,115.95,50.00 feet,R2486443
+2455 SE Marine Drive,179999,3.0,2.0,5523,53,4822,Vancouver East,Fraserview East,House,Freehold NonStrata,2 Storey,114.15,50.00 feet,R2486446
+2485 SE Marine Drive,179999,4.0,2.0,5708,53,4950,Vancouver East,Fraserview East,House,Freehold NonStrata,2 Storey,114.15,50.00 feet,R2486286
+1536 E 63rd Avenue,264900,9.0,10.0,5582,6,7552,Vancouver East,Fraserview East,House,Freehold NonStrata,"3 Storey,Laneway House",Heat Recovery Ventilator,120.04,46.50 feet
+1670 E 57th Avenue,197800,6.0,4.0,5767,34,6526,Vancouver East,Fraserview East,House,Freehold NonStrata,2 Storey,116.5,49.50 feet,R2453516
+7437 Stirling Street,249900,6.0,4.0,5400,32,6115,Vancouver East,Fraserview East,House,Freehold NonStrata,"2 Storey w/Bsmt.,Corner Unit",120,47.00 feet,R2443294
+1969 E 8th Avenue,157700,1.0,1.0,4026,90,6028,Vancouver East,Grandview East,House,Freehold NonStrata,3 Storey,122,33.00 feet,R2515691
+1340 E 12th Avenue,169990,6.0,2.0,4026,98,5832,Vancouver East,Grandview East,House,Freehold NonStrata,3 Storey,122,33.00 feet,R2515571
+1346 E 12th Avenue,189990,8.0,3.0,4026,108,5960,Vancouver East,Grandview East,House,Freehold NonStrata,3 Storey,122,33.00 feet,R2509626
+1356 E 12th Avenue,189990,6.0,3.0,4026,108,4322,Vancouver East,Grandview East,House,Freehold NonStrata,3 Storey w/Bsmt,122,33.00 feet,R2509571
+2066 E 1st Avenue,139800,3.0,2.0,4026,95,4937,Vancouver East,Grandview East,House,Freehold NonStrata,2 Storey,122,33.00 feet,R2492774
+1824 E 10th Avenue,399999,4.0,3.0,4234,108,6234,Vancouver East,Grandview East,House,Freehold NonStrata,2 Storey w/Bsmt.,127,33.34 feet,R2473113
+1239 Woodland Drive,169900,3.0,1.0,2594,110,4909,Vancouver East,Grandview East,House,Freehold NonStrata,2 Storey,83,31.25 feet,R2524016
+1307 E 8th Avenue,159900,4.0,2.0,3152,66,5510,Vancouver East,Grandview East,House,Freehold NonStrata,2 Storey,95.5,33.00 feet,R2522363
+1638 E 8th Avenue,319900,6.0,4.0,6100,109,8521,Vancouver East,Grandview East,House,Freehold NonStrata,"3 Storey,4 Level Split",122,50.00 feet,R2520323
+2316 E 1st Avenue,230000,4.0,3.0,3651,44,4897,Vancouver East,Grandview East,House,Freehold NonStrata,2 Storey,111.5,32.74 feet,R2504364
+2314 E 1st Avenue,232000,5.0,3.0,3676,44,4932,Vancouver East,Grandview East,House,Freehold NonStrata,2 Storey,112.29,32.73 feet,R2504267
+2320 E 1st Avenue,230000,5.0,3.0,3582,44,4805,Vancouver East,Grandview East,House,Freehold NonStrata,2 Storey,109.2,32.80 feet,R2504255
+1440 E 1 Avenue,199990,5.0,1.0,4026,110,5538,Vancouver East,Grandview East,House,Freehold NonStrata,2 Storey w/Bsmt.,122,33.00 feet,R2499387
+2211 E 1st Avenue,225000,8.0,4.0,4026,96,5736,Vancouver East,Grandview East,House,Freehold NonStrata,2 Storey,122,33.00 feet,R2499652
+1855 E 1st Avenue,189900,3.0,1.0,4026,93,5021,Vancouver East,Grandview East,House,Freehold NonStrata,Rancher/Bungalow w/Bsmt.,122,33.00 feet,R2493030
+2055 E Broadway,300000,5.0,2.0,4026,75,4590,Vancouver East,Grandview East,House,Freehold NonStrata,2 Storey w/Bsmt.,122,0.00 feet,R2483912
+1654 E Pender Street,169800,5.0,2.0,4071,105,5517,Vancouver East,Hastings,House,Freehold NonStrata,2 Storey,122,33.37 feet,R2516845
+1632 E Pender Street,188800,4.0,2.0,4026,56,5570,Vancouver East,Hastings,House,Freehold NonStrata,Rancher/Bungalow,122,33.00 feet,R2483270
+2135 Triumph Street,92800,4.0,2.0,3020,94,4672,Vancouver East,Hastings,House,Freehold NonStrata,2 Storey,122,24.75 feet,R2513507
+3666 Edinburgh Street,178800,4.0,4.0,6100,20,6393,Vancouver East,Hastings Sunrise,House,Freehold NonStrata,3 Storey w/Bsmt,122,50.00 feet,R2523359
+3188 E 43rd Avenue,239900,6.0,6.0,6072,0,5932,Vancouver East,Killarney,House,Freehold NonStrata,2 Storey w/Bsmt.,Heat Recovery Ventilator,132,46.00 feet
+3188 E 43rd Avenue,239900,6.0,6.0,6072,0,5932,Vancouver East,Killarney,House,Freehold NonStrata,2 Storey w/Bsmt.,Heat Recovery Ventilator,132,46.00 feet
+2696 E 52nd Avenue,179800,5.0,2.0,4793,64,5711,Vancouver East,Killarney,House,Freehold NonStrata,2 Storey,105.56,45.40 feet,R2520344
+2778 E 41st Avenue,129800,3.0,1.0,3349,104,4143,Vancouver East,Killarney,House,Freehold NonStrata,1 Storey,101.55,32.98 feet,R2519480
+6162 Tyne Street,169800,5.0,2.0,5310,55,5589,Vancouver East,Killarney,House,Freehold NonStrata,2 Storey,124.86,42.53 feet,R2517429
+5806 Rupert Street,126000,3.0,1.0,3660,70,4677,Vancouver East,Killarney,House,Freehold NonStrata,2 Storey,122,30.00 feet,R2510670
+6255 Doman Street,128000,4.0,2.0,2153,47,4097,Vancouver East,Killarney,House,Freehold NonStrata,2 Storey,102.5,21.00 feet,R2502478
+2833 E 49th Avenue,250000,3.0,1.0,8171,60,5990,Vancouver East,Killarney,House,Freehold NonStrata,Rancher/Bungalow w/Bsmt.,181.57,45.00 feet,R2499557
+2478 E 48th Avenue,178000,4.0,2.0,5633,57,5842,Vancouver East,Killarney,House,Freehold NonStrata,2 Storey,119.85,47.00 feet,R2498731
+1715 E 47th Avenue,158000,6.0,2.0,3960,60,4923,Vancouver East,Killarney,House,Freehold NonStrata,2 Storey,120,33.00 feet,R2446314
+3169 E 45th Avenue,168800,5.0,4.0,3600,18,5178,Vancouver East,Killarney,House,Freehold NonStrata,2 Storey,120,30.00 feet,R2524883
+6841 Tyne Street,149900,5.0,2.0,3729,63,4807,Vancouver East,Killarney,House,Freehold NonStrata,2 Storey,113,33.00 feet,R2524274
+5710 Berkeley Street,174580,5.0,3.0,4329,41,5090,Vancouver East,Killarney,House,Freehold NonStrata,"2 Storey,Basement Entry",117,37.00 feet,R2522720
+1960 E 52nd Avenue,144800,5.0,2.0,3385,65,5064,Vancouver East,Killarney,House,Freehold NonStrata,2 Storey,105.8,32.00 feet,R2523107
+3188 E 43rd Avenue,239900,6.0,6.0,6072,0,5932,Vancouver East,Killarney,House,Freehold NonStrata,2 Storey w/Bsmt.,Heat Recovery Ventilator,132,46.00 feet
+5816 Beatrice Street,133800,5.0,2.0,3874,69,4895,Vancouver East,Killarney,House,Freehold NonStrata,1 1/2 Storey,117.41,33.00 feet,R2523054
+6696 Nanaimo Street,170000,5.0,2.0,5523,64,5676,Vancouver East,Killarney,House,Freehold NonStrata,2 Storey,115.07,48.00 feet,R2520247
+6936 Balmoral Street,209900,6.0,5.0,3456,8,6937,Vancouver East,Killarney,House,Freehold NonStrata,2 Storey w/Bsmt.,108,32.00 feet,R2518867
+2822 E 43rd Avenue,210000,5.0,4.0,5051,32,6108,Vancouver East,Killarney,House,Freehold NonStrata,2 Storey,126.26,40.00 feet,R2518762
+6930 Rupert Street,279800,7.0,7.0,4724,0,6427,Vancouver East,Killarney,House,Freehold NonStrata,"2 Storey w/Bsmt.,Corner Unit",143,33.00 feet,R2514503
+2060 E 51st Avenue Avenue,172000,4.0,4.0,4026,30,5723,Vancouver East,Killarney,House,Freehold NonStrata,2 Storey w/Bsmt.,122,33.00 feet,R2425406
+2211 E 43rd Avenue,179000,6.0,4.0,3703,10,5957,Vancouver East,Killarney,House,Freehold NonStrata,2 Storey,112.2,33.00 feet,R2509860
+2155 E 51st Avenue,218000,6.0,6.0,4026,7,5714,Vancouver East,Killarney,House,Freehold NonStrata,3 Storey,Heat Recovery Ventilator,122,33.00 feet
+3143 E 46th Avenue,172000,4.0,4.0,3597,28,5646,Vancouver East,Killarney,House,Freehold NonStrata,2 Storey w/Bsmt.,109,33.00 feet,R2503277
+5756 St. Margarets Street,188000,6.0,3.0,4838,40,5795,Vancouver East,Killarney,House,Freehold NonStrata,2 Storey,117,41.35 feet,R2501087
+6281 Knight Street,245000,5.0,4.0,4945,56,5433,Vancouver East,Knight,House,Freehold NonStrata,2 Storey,115,43.00 feet,R2524247
+6295 Knight Street,245000,5.0,4.0,4945,56,5000,Vancouver East,Knight,House,Freehold NonStrata,2 Storey,115,43.00 feet,R2522316
+4480 Knight Street,239800,5.0,2.0,5426,72,5060,Vancouver East,Knight,House,Freehold NonStrata,2 Storey w/Bsmt.,113,48.01 feet,R2521944
+1375 E 18th Avenue,134900,5.0,3.0,3598,28,6360,Vancouver East,Knight,House,Freehold NonStrata,2 Storey w/Bsmt.,121.93,29.51 feet,R2516859
+1389 E 18th Avenue,134900,5.0,3.0,3598,28,5453,Vancouver East,Knight,House,Freehold NonStrata,2 Storey w/Bsmt.,121.93,29.51 feet,R2516865
+1326 E 36th Avenue,239800,7.0,6.0,3642,2,5057,Vancouver East,Knight,House,Freehold NonStrata,"Basement Entry,Laneway House",110.05,33.00 feet,R2485156
+6130 Fleming Street,185000,7.0,4.0,4039,50,5291,Vancouver East,Knight,House,Freehold NonStrata,2 Storey,122.37,33.00 feet,R2504563
+3532 Knight Street,135000,4.0,2.0,3468,72,4692,Vancouver East,Knight,House,Freehold NonStrata,2 Storey,105.1,33.00 feet,R2502073
+4040 Inverness Street,179800,5.0,3.0,3497,92,6222,Vancouver East,Knight,House,Freehold NonStrata,"1 1/2 Storey,Basement Entry",106.6,32.80 feet,R2496653
+3708 Dumfries Street,159900,8.0,4.0,4026,90,5538,Vancouver East,Knight,House,Freehold NonStrata,2 Storey,122,33.00 feet,R2495600
+5254 Sherbrooke Street,177500,4.0,4.0,3234,18,5292,Vancouver East,Knight,House,Freehold NonStrata,3 Storey,98,33.00 feet,R2503284
+3458 Knight Street,180000,5.0,2.0,3469,68,4774,Vancouver East,Knight,House,Freehold NonStrata,"2 Storey,Split Entry",105.1,33.00 feet,R2429964
+3470 Knight Street,180000,5.0,2.0,3469,73,4614,Vancouver East,Knight,House,Freehold NonStrata,Rancher/Bungalow w/Bsmt.,105.1,30.00 feet,R2429505
+1333 E 41st Avenue,238880,7.0,2.0,3201,66,4310,Vancouver East,Knight,House,Freehold NonStrata,2 Storey,97,33.00 feet,R2389227
+4717 Lanark Street,119988,6.0,6.0,3267,1,5942,Vancouver East,Knight,House,Freehold NonStrata,2 Storey,132,24.37 feet,R2524828
+4363 Dumfries Street,178800,7.0,4.0,4640,55,5851,Vancouver East,Knight,House,Freehold NonStrata,2 Storey w/Bsmt.,118.13,39.63 feet,R2523270
+1419 E 27th Avenue,219900,2.0,0.0,5515,75,5777,Vancouver East,Knight,House,Freehold NonStrata,Rancher/Bungalow w/Bsmt.,110,50.00 feet,R2523100
+1427 E 27th Avenue,219900,2.0,0.0,5515,75,5873,Vancouver East,Knight,House,Freehold NonStrata,Rancher/Bungalow w/Bsmt.,110,50.00 feet,R2523055
+5635 Lanark Street,169900,6.0,4.0,4104,33,5737,Vancouver East,Knight,House,Freehold NonStrata,2 Storey,124.34,33.00 feet,R2522730
+5330 Knight Street,135000,2.0,2.0,3784,79,4447,Vancouver East,Knight,House,Freehold NonStrata,2 Storey w/Bsmt.,114.65,33.00 feet,R2522120
+5330 Knight Street,135000,2.0,2.0,3784,79,4447,Vancouver East,Knight,House,Freehold NonStrata,2 Storey w/Bsmt.,114.65,33.00 feet,R2522120
+5877 Dumfries Street,159800,5.0,4.0,4068,54,4337,Vancouver East,Knight,House,Freehold NonStrata,2 Storey,123.25,33.00 feet,R2504334
+3260 Quebec Street,229800,4.0,4.0,5808,115,8628,Vancouver East,Main,House,Freehold NonStrata,"2 Storey,Carriage/Coach House",132,44.00 feet,R2522891
+266 E 21st Avenue,229800,5.0,3.0,4036,108,8397,Vancouver East,Main,House,Freehold NonStrata,2 Storey w/Bsmt.,122.29,33.00 feet,R2521413
+169 E 22 Avenue,269990,6.0,4.0,3904,13,7893,Vancouver East,Main,House,Freehold NonStrata,2 Storey w/Bsmt.,122,32.00 feet,R2513814
+230 E 17th Avenue,259800,5.0,3.0,4027,112,6719,Vancouver East,Main,House,Freehold NonStrata,2 Storey w/Bsmt.,122.03,33.00 feet,R2504572
+240 E 17th Avenue,239800,5.0,4.0,4027,110,6648,Vancouver East,Main,House,Freehold NonStrata,2 Storey w/Bsmt.,122.03,33.00 feet,R2504570
+87 E 46th Avenue,169900,8.0,5.0,4032,32,7040,Vancouver East,Main,House,Freehold NonStrata,2 Storey,126,32.00 feet,R2524377
+150 E 46th Avenue,236800,6.0,4.0,4032,11,7735,Vancouver East,Main,House,Freehold NonStrata,2 Storey,Heat Recovery Ventilator,126,32.00 feet
+150 E 46th Avenue,236800,6.0,4.0,4032,11,7735,Vancouver East,Main,House,Freehold NonStrata,2 Storey,Heat Recovery Ventilator,126,32.00 feet
+4980 Walden Street,328000,4.0,5.0,4026,0,5001,Vancouver East,Main,House,Freehold NonStrata,2 Storey w/Bsmt.,Heat Recovery Ventilator,122,33.00 feet
+4994 Main Street,235000,4.0,2.0,3696,50,5597,Vancouver East,Main,House,Freehold NonStrata,2 Storey,112,33.00 feet,R2518692
+381 E 34th Avenue,159900,4.0,3.0,3494,75,5354,Vancouver East,Main,House,Freehold NonStrata,2 Storey w/Bsmt.,105.9,33.00 feet,R2517742
+5670 Sophia Street,290000,6.0,4.0,4125,32,6819,Vancouver East,Main,House,Freehold NonStrata,2 Storey,125,33.00 feet,R2514843
+11 E King Edward Avenue,164900,4.0,3.0,3300,44,5188,Vancouver East,Main,House,Freehold NonStrata,2 Storey,100,33 feet,R2512977
+368 E 33rd Avenue,386000,6.0,7.0,3325,8,7033,Vancouver East,Main,House,Freehold NonStrata,3 Storey,98.5,33.75 feet,R2512169
+4891 Walden Street,269900,5.0,6.0,4224,13,7001,Vancouver East,Main,House,Freehold NonStrata,2 Storey w/Bsmt.,132,32.00 feet,R2511189
+55 E 49th Avenue,250000,7.0,3.0,4686,49,6039,Vancouver East,Main,House,Freehold NonStrata,2 Storey,142,33.00 feet,R2493305
+1206 E 11th Avenue,189800,5.0,3.0,4125,34,0,Vancouver East,Mount Pleasant East,House,Freehold NonStrata,2 Storey,125,33.00 feet,R2515162
+850 E 12th Avenue,149900,6.0,4.0,4026,108,4298,Vancouver East,Mount Pleasant East,House,Freehold NonStrata,2 Storey w/Bsmt.,122,33.00 feet,R2506355
+2180 Rupert Street,149980,5.0,2.0,4026,66,4961,Vancouver East,Renfrew,House,Freehold NonStrata,Rancher/Bungalow w/Bsmt.,122,33.00 feet,R2520104
+531 Rupert Street,144900,6.0,3.0,3960,53,5416,Vancouver East,Renfrew,House,Freehold NonStrata,2 Storey,120,33.00 feet,R2516949
+2531 E 5th Avenue,139990,4.0,2.0,4026,56,5125,Vancouver East,Renfrew,House,Freehold NonStrata,Basement Entry,122,33.00 feet,R2516968
+2646 E 4th Avenue,158000,3.0,2.0,4026,73,5086,Vancouver East,Renfrew,House,Freehold NonStrata,Rancher/Bungalow w/Bsmt.,122,33.00 feet,R2514658
+3254 E 6th Avenue,243880,9.0,8.0,4026,1,6696,Vancouver East,Renfrew,House,Freehold NonStrata,2 Storey w/Bsmt.,122,33.00 feet,R2511708
+2915 Parker Street,166800,3.0,2.0,4724,74,5248,Vancouver East,Renfrew,House,Freehold NonStrata,2 Storey,146.75/136,33.00 feet,R2507632
+636 Cassiar Street,132500,3.0,2.0,4026,106,4743,Vancouver East,Renfrew,House,Freehold NonStrata,2 Storey w/Bsmt.,122,33.00 feet,R2506743
+3466 E Pender Street,199800,0.0,0.0,7673,102,6498,Vancouver East,Renfrew,House,Freehold NonStrata,2 Storey w/Bsmt.,155,49.50 feet,R2502609
+2438 Rupert Street,199999,4.0,2.0,4026,66,4945,Vancouver East,Renfrew,House,Freehold NonStrata,2 Storey,122,33.00 feet,R2493300
+2416 Rupert Street,199999,7.0,5.0,4026,73,5295,Vancouver East,Renfrew,House,Freehold NonStrata,2 Storey,122,33.00 feet,R2493297
+3306 E 8th Avenue,199999,5.0,3.0,4026,40,5166,Vancouver East,Renfrew,House,Freehold NonStrata,2 Storey,122,33.00 feet,R2493280
+2428 Rupert Street,199999,5.0,2.0,4026,57,5010,Vancouver East,Renfrew,House,Freehold NonStrata,2 Storey,122,33.00 feet,R2493275
+3428 E 4th Avenue,176800,6.0,4.0,4092,18,6083,Vancouver East,Renfrew,House,Freehold NonStrata,2 Storey w/Bsmt.,124,33.00 feet,R2487553
+2110 Renfrew Street,134900,4.0,2.0,4026,79,4921,Vancouver East,Renfrew,House,Freehold NonStrata,"2 Storey,Rancher/Bungalow w/Bsmt.",122,33.00 feet,R2470763
+3405 E Pender Street,198000,6.0,3.0,4026,27,5595,Vancouver East,Renfrew,House,Freehold NonStrata,2 Storey w/Bsmt.,122,33.00 feet,R2433939
+574 Nanaimo Street,240000,4.0,3.0,4158,95,5078,Vancouver East,Renfrew,House,Freehold NonStrata,2 Storey w/Bsmt.,126,33.00 feet,R2394840
+2954 Charles Street,159900,5.0,2.0,4255,53,5169,Vancouver East,Renfrew,House,Freehold NonStrata,2 Storey,127,33.50 feet,R2524733
+3088 E 6th Avenue,189900,7.0,6.0,4026,30,4173,Vancouver East,Renfrew,House,Freehold NonStrata,2 Storey w/Bsmt.,122,33.00 feet,R2524284
+3658 Turner Street,139900,5.0,2.0,3630,94,4768,Vancouver East,Renfrew,House,Freehold NonStrata,2 Storey,110,33.00 feet,R2524204
+2948 E 3rd Avenue,155000,5.0,2.0,4092,79,5378,Vancouver East,Renfrew,House,Freehold NonStrata,2 Storey,124,33.00 feet,R2524163
+3442 E 4th Avenue,269000,7.0,6.0,8271,36,8518,Vancouver East,Renfrew,House,Freehold NonStrata,"2 Storey,Ground Level Unit",124,66.70 feet,R2514864
+3446 William Street,118000,5.0,2.0,3548,66,4545,Vancouver East,Renfrew,House,Freehold NonStrata,2 Storey,107.5,33.00 feet,R2512996
+2939 Charles Street,156000,4.0,3.0,3488,31,5105,Vancouver East,Renfrew,House,Freehold NonStrata,2 Storey,110.8,31.48 feet,R2513321
+3115 E Broadway Street,300000,6.0,4.0,4952,54,5722,Vancouver East,Renfrew,House,Freehold NonStrata,2 Storey,150.04,33.00 feet,R2511790
+2579 E East Pender Street,140000,4.0,2.0,4026,58,4837,Vancouver East,Renfrew,House,Freehold NonStrata,"2 Storey,Basement Entry",122,33.00 feet,R2510216
+3326 E 2nd Avenue,167900,6.0,3.0,4960,52,5523,Vancouver East,Renfrew,House,Freehold NonStrata,2 Storey,124.02,40.00 feet,R2509974
+2942 Renfrew Street,157500,6.0,3.0,3850,51,4629,Vancouver East,Renfrew Heights,House,Freehold NonStrata,2 Storey,121.66,31.65 feet,R2514549
+3168 Renfrew Street,270000,3.0,2.0,4016,72,4698,Vancouver East,Renfrew Heights,House,Freehold NonStrata,2 Storey,121.53,33.04 feet,R2449933
+3138 Renfrew Street,260000,5.0,3.0,4015,46,4840,Vancouver East,Renfrew Heights,House,Freehold NonStrata,2 Storey,121.55,33.04 feet,R2437760
+3196 Renfrew Street,260000,4.0,2.0,4015,76,5027,Vancouver East,Renfrew Heights,House,Freehold NonStrata,2 Storey,121.51,33.03 feet,R2437127
+3156 Renfrew Street,259900,3.0,2.0,4015,60,4679,Vancouver East,Renfrew Heights,House,Freehold NonStrata,2 Storey,122.54,33.04 feet,R2437110
+3182 Renfrew Street,260000,6.0,0.0,4015,61,4649,Vancouver East,Renfrew Heights,House,Freehold NonStrata,2 Storey,121.52,33.04 feet,R2437070
+2875 E 10th Avenue,250000,5.0,3.0,4752,41,5302,Vancouver East,Renfrew Heights,House,Freehold NonStrata,2 Storey,144,33.00 feet,R2433215
+2869 E 10th Avenue,250000,6.0,3.0,4752,41,5376,Vancouver East,Renfrew Heights,House,Freehold NonStrata,2 Storey,144,33.00 feet,R2433197
+3192 E 14th Avenue,239900,7.0,7.0,3985,0,7019,Vancouver East,Renfrew Heights,House,Freehold NonStrata,"2 Storey w/Bsmt.,Laneway House",Heat Recovery Ventilator,104.86,38.00 feet
+2883 Nanaimo Street,159900,5.0,4.0,3406,23,5222,Vancouver East,Renfrew Heights,House,Freehold NonStrata,2 Storey,119.5,28.50 feet,R2522408
+3549 Anzio Drive,178888,4.0,4.0,4510,27,5845,Vancouver East,Renfrew Heights,House,Freehold NonStrata,2 Storey w/Bsmt.,110,41.00 feet,R2520965
+2418 E 19th Avenue,174999,8.0,5.0,436,11,5763,Vancouver East,Renfrew Heights,House,Freehold NonStrata,2 Storey,110.03,33.00 feet,R2519976
+3125 Nootka Street,188880,4.0,3.0,5257,54,5831,Vancouver East,Renfrew Heights,House,Freehold NonStrata,2 Storey,121.33,43.48 feet,R2518470
+2816 E 16th Avenue,178880,4.0,3.0,4619,65,5836,Vancouver East,Renfrew Heights,House,Freehold NonStrata,2 Storey w/Bsmt.,139.91,33.01 feet,R2517886
+2762 E 21st Avenue,166800,4.0,4.0,3625,26,5614,Vancouver East,Renfrew Heights,House,Freehold NonStrata,2 Storey w/Bsmt.,109.97,32.96 feet,R2513971
+4465 Skeena Street,169800,4.0,4.0,3696,27,5611,Vancouver East,Renfrew Heights,House,Freehold NonStrata,"2 Storey w/Bsmt.,Split Entry",112,33.00 feet,R2513366
+2605 Kamloops Street,189900,5.0,3.0,6400,52,5901,Vancouver East,Renfrew Heights,House,Freehold NonStrata,2 Storey,128,50.00 feet,R2510867
+3230 Nanaimo Street,189900,10.0,5.0,6411,73,5819,Vancouver East,Renfrew Heights,House,Freehold NonStrata,2 Storey w/Bsmt.,129.5,49.50 feet,R2510876
+3144 E 22nd Avenue,229800,9.0,7.0,3960,3,5558,Vancouver East,Renfrew Heights,House,Freehold NonStrata,"2 Storey w/Bsmt.,Laneway House",Heat Recovery Ventilator,120,33.00 feet
+3862 Nanaimo Street,270000,7.0,4.0,3900,15,5781,Vancouver East,Renfrew Heights,House,Freehold NonStrata,2 Storey,120,32.50 feet,R2505281
+2882 E Broadway,288800,4.0,1.0,4779,65,5180,Vancouver East,Renfrew Heights,House,Freehold NonStrata,2 Storey,144.8,33.00 feet,R2489126
+4475 Skeena Street,228800,8.0,8.0,3696,0,5429,Vancouver East,Renfrew Heights,House,Freehold NonStrata,2 Storey w/Bsmt.,112,33.00 feet,R2486792
+2938 E 25th Avenue,279800,10.0,10.0,0,12,0,Vancouver East,Renfrew Heights,House,Freehold NonStrata,"2 Storey w/Bsmt.,Laneway House",100,52.00 feet,R2472526
+2843 E 20th Avenue,158900,8.0,3.0,3629,95,4671,Vancouver East,Renfrew Heights,House,Freehold NonStrata,3 Storey,109.94,33.00 feet,R2464634
+2876 E Broadway,288800,4.0,2.0,4779,73,5699,Vancouver East,Renfrew Heights,House,Freehold NonStrata,1 Storey,144.8,33.00 feet,R2462225
+2808 E Broadway,300000,6.0,4.0,4779,9,5872,Vancouver East,Renfrew Heights,House,Freehold NonStrata,2 Storey,144,33.00 feet,R2451790
+2870 E Broadway,288800,4.0,2.0,4779,74,5550,Vancouver East,Renfrew Heights,House,Freehold NonStrata,Rancher/Bungalow w/Bsmt.,144,33.00 feet,R2451241
+2838 E Broadway,288800,4.0,2.0,4778,57,5606,Vancouver East,Renfrew Heights,House,Freehold NonStrata,Rancher/Bungalow w/Bsmt.,144.8,33.00 feet,R2451177
+7320 Inverness Street,138800,5.0,2.0,3831,68,4824,Vancouver East,South Vancouver,House,Freehold NonStrata,2 Storey w/Bsmt.,112,34.32 feet,R2523929
+1267 E 53rd Avenue,248000,8.0,5.0,3696,3,5818,Vancouver East,South Vancouver,House,Freehold NonStrata,"2 Storey w/Bsmt.,Laneway House",112,33.00 feet,R2521803
+7983 Prince Albert Street,214800,8.0,6.0,3998,3,5805,Vancouver East,South Vancouver,House,Freehold NonStrata,"2 Storey w/Bsmt.,Loft/Warehouse Conv.",Heat Recovery Ventilator,121.15,33.00 feet
+420 E 56th Avenue,228800,7.0,7.0,3500,0,4522,Vancouver East,South Vancouver,House,Freehold NonStrata,"2 Storey w/Bsmt.,Laneway House",Heat Recovery Ventilator,114,30.70 feet
+1148 E 60th Avenue,168388,6.0,4.0,3849,18,6193,Vancouver East,South Vancouver,House,Freehold NonStrata,2 Storey,116.64,33.00 feet,R2504932
+883 E 63rd Avenue,158000,6.0,3.0,4263,43,5175,Vancouver East,South Vancouver,House,Freehold NonStrata,2 Storey,129.2,33.00 feet,R2504122
+1228 E 61st Avenue,178800,6.0,5.0,3762,17,5480,Vancouver East,South Vancouver,House,Freehold NonStrata,2 Storey,114,33.00 feet,R2503590
+20 E 60th Avenue,149900,4.0,2.0,3330,95,5340,Vancouver East,South Vancouver,House,Freehold NonStrata,Rancher/Bungalow w/Bsmt.,111,30.00 feet,R2503217
+6805 Sherbrooke Street,164800,6.0,4.0,4020,58,5351,Vancouver East,South Vancouver,House,Freehold NonStrata,2 Storey,121.81,33.00 feet,R2466550
+952 E 63rd Avenue,154999,6.0,3.0,4089,47,5431,Vancouver East,South Vancouver,House,Freehold NonStrata,"2 Storey,2 Storey w/Bsmt.",126.22,32.40 feet,R2523018
+66 E 56th Avenue,238800,9.0,6.0,3640,3,6126,Vancouver East,South Vancouver,House,Freehold NonStrata,"2 Storey w/Bsmt.,Laneway House",110,33.00 feet,R2521947
+301 E 61st Avenue,158888,5.0,5.0,3548,29,5254,Vancouver East,South Vancouver,House,Freehold NonStrata,2 Storey w/Bsmt.,108.5,32.70 feet,R2517553
+442 E 56th Avenue,248800,7.0,8.0,3795,0,4934,Vancouver East,South Vancouver,House,Freehold NonStrata,2 Storey w/Bsmt.,115,33.00 feet,R2516183
+112 E 62nd Avenue,239800,6.0,6.0,3809,5,5972,Vancouver East,South Vancouver,House,Freehold NonStrata,"2 Storey w/Bsmt.,Basement Entry",Heat Recovery Ventilator,115.45,33.00 feet
+1348 E 61st Avenue,169800,5.0,4.0,3795,23,5964,Vancouver East,South Vancouver,House,Freehold NonStrata,2 Storey,115,33.00 feet,R2512922
+1032 E 61st Avenue,159888,4.0,5.0,4026,47,6103,Vancouver East,South Vancouver,House,Freehold NonStrata,2 Storey,122,33.00 feet,R2510043
+6653 Main Street,290000,2.0,4.0,3850,61,9285,Vancouver East,South Vancouver,House,Freehold NonStrata,2 Storey,110,35.00 feet,R2508595
+6879 Fraser Street,220000,5.0,1.0,3729,73,4803,Vancouver East,South Vancouver,House,Freehold NonStrata,Rancher/Bungalow w/Bsmt.,113,33.00 feet,R2497251
+6891 Fraser Street,220000,4.0,2.0,3729,74,4867,Vancouver East,South Vancouver,House,Freehold NonStrata,Rancher/Bungalow w/Bsmt.,113,33.00 feet,R2497253
+6867 Fraser Street,220000,5.0,1.0,3729,73,4803,Vancouver East,South Vancouver,House,Freehold NonStrata,"2 Storey,Rancher/Bungalow",113,33.00 feet,R2497252
+135 E 62nd Avenue,184990,6.0,4.0,3056,13,5839,Vancouver East,South Vancouver,House,Freehold NonStrata,3 Storey,115.58,26.44 feet,R2495975
+328 E 49th Avenue,179988,5.0,3.0,3936,38,5322,Vancouver East,South Vancouver,House,Freehold NonStrata,"2 Storey,Basement Entry",123,32.00 feet,R2493065
+626 E 62nd Avenue,179800,6.0,4.0,4620,36,5997,Vancouver East,South Vancouver,House,Freehold NonStrata,2 Storey,132,35.00 feet,R2490831
+585 E 52nd Avenue,320000,8.0,7.0,8852,31,8157,Vancouver East,South Vancouver,House,Freehold NonStrata,"2 Storey w/Bsmt.,Basement Entry",122,72.55 feet,R2486145
+769 E 62nd Avenue,159800,6.0,3.0,4026,52,5111,Vancouver East,South Vancouver,House,Freehold NonStrata,2 Storey,122,33.00 feet,R2481361
+7316 Culloden Street,144900,6.0,5.0,4347,67,5548,Vancouver East,South Vancouver,House,Freehold NonStrata,2 Storey,105,41.40 feet,R2461437
+454 E 63rd Avenue,200000,7.0,4.0,6478,45,6373,Vancouver East,South Vancouver,House,Freehold NonStrata,2 Storey w/Bsmt.,145.38,44.56 feet,R2445681
+350 E 61st Avenue,149888,4.0,4.0,3279,55,4497,Vancouver East,South Vancouver,House,Freehold NonStrata,2 Storey,99.35,33.00 feet,R2435290
+2218 E 38th Avenue,178000,7.0,3.0,5640,108,6316,Vancouver East,Victoria East,House,Freehold NonStrata,3 Storey,141,40.00 feet,R2521158
+4140 Gladstone Street,328800,10.0,7.0,6994,0,7243,Vancouver East,Victoria East,House,Freehold NonStrata,2 Storey w/Bsmt.,139.87,50.00 feet,R2520968
+1896 E 40th Avenue,178000,6.0,6.0,4512,59,5553,Vancouver East,Victoria East,House,Freehold NonStrata,2 Storey,137,33.00 feet,R2517069
+1635 E 21st Avenue,319980,4.0,3.0,6039,97,6431,Vancouver East,Victoria East,House,Freehold NonStrata,3 Storey,122,49.50 feet,R2513481
+1885 E 35th Avenue,283800,10.0,8.0,4594,4,6125,Vancouver East,Victoria East,House,Freehold NonStrata,"2 Storey w/Bsmt.,Laneway House",127.61,36.00 feet,R2484823
+4665 Baldwin Street,169800,5.0,2.0,4837,53,5105,Vancouver East,Victoria East,House,Freehold NonStrata,2 Storey,118,62.00 feet,R2440227
