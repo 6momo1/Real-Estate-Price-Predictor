@@ -22,10 +22,10 @@ from bfs import Utils
 
 
 # test Scraper().scrapeRew() function
-# Scraper().scrapeRew('arbutus','vancouver', 1)
+Scraper().scrapeRew('arbutus','vancouver', 1)
 
 
-# test Utils().get_info() function
-html = open('./rew_page.html', 'r')
-data = Utils().get_info(html.read())
-print(data)
+# # test Utils().get_info() function
+# html = open('./rew_page.html', 'r')
+# data = Utils().get_info(html.read())
+# print(data)

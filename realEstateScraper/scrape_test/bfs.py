@@ -5,9 +5,8 @@ import csv
 
 class Utils:
 
-    def write_to_csv(self, data):
+    def write_to_csv(self, data: dict):
 
-        string = ''
         li = []
         for (k,v) in data.items():
             li.append(v)
@@ -18,7 +17,7 @@ class Utils:
 
 
 
-    def get_info(self, source_code):
+    def get_info(self, source_code: str) -> dict:
         # returns a dictionary then writes
 
         print("get_info() called")
@@ -60,9 +59,10 @@ class Utils:
                 val = tr.find_all('td')[0].text.strip('\n')
                 data_dic[key] = val
 
+        if 'List Price' in data_dic:
+            del data_dic['List Price']
 
-        # self.write_to_csv(data)
-
+        self.write_to_csv(data_dic)
 
         return data_dic
 
