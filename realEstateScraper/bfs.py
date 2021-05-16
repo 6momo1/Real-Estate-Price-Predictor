@@ -3,44 +3,68 @@ from collections import OrderedDict
 import json
 import csv
 
+class Utils:
+
+    def write_to_csv(self, data: dict):
+
+        li = []
+        for (k,v) in data.items():
+            li.append(v)
+
+        with open('house_data.csv', mode='a',newline='') as data_file:
+            data_writer = csv.writer(data_file, delimiter=',', quotechar='"', quoting=csv.QUOTE_MINIMAL)
+            data_writer.writerow(li)
 
 
-def write_to_csv(data):
 
-    string = ''
-    li = []
-    for (k,v) in data.items():
-        li.append(v)
+    def get_info(self, source_code: str) -> dict:
+        # returns a dictionary then writes
 
-    with open('house_data.csv', mode='a',newline='') as employee_file:
-        employee_writer = csv.writer(employee_file, delimiter=',', quotechar='"', quoting=csv.QUOTE_MINIMAL)
-        employee_writer.writerow(li)
+        print("get_info() called")
+
+        # turn the source code into a bfs object
+        soup = BeautifulSoup(source_code, 'html.parser')
+
+        table_data = []
+
+        data_dic = {}
+
+        # get address
+        address = soup.findAll("div", {"class": "listingheader-address"})
+
+        # save address to list
+        address_text = address[0].text
+        table_data.append(['address',address_text])
+
+        # save address to dictionary 
+        # print('ADDRESS:',address_text, type(address_text))
+        data_dic['address'] = address_text
 
 
+        # get price
+        price = soup.findAll("div", {"class": "listingheader-price"})
 
-def get_info(source_code):
-    # returns a dictionary then writes
+        # save price to list
+        price_text = price[0].text
+        table_data.append(['price',price_text])
+        # save price to dictionary
+        data_dic['price'] = price_text
 
-    soup = BeautifulSoup(source_code, 'html.parser')
 
-    table_data = []
+        all_tbody = soup.find_all('tbody')
 
-    address = soup.findAll("div", {"class": "propertyheader-address"})
-    table_data.append(['address',address[0].text])
+        for tbody in all_tbody:
+            for tr in tbody.find_all('tr'):
+                key = tr.find_all('th')[0].text.strip('\n')
+                val = tr.find_all('td')[0].text.strip('\n')
+                data_dic[key] = val
 
-    price = soup.findAll("div", {"class": "propertyheader-price"})
-    table_data.append(['price',price[0].text])
+        if 'List Price' in data_dic:
+            del data_dic['List Price']
 
-    for row in soup.findAll('tr'):
-        elements = row.text.strip('\n').split('\n')
-        for elem in elements:
-            if elem == '':
-                elements.remove('')
-        table_data.append(elements)
+        self.write_to_csv(data_dic)
 
-    data = OrderedDict(table_data)
-
-    write_to_csv(data)
+        return data_dic
 
 
 

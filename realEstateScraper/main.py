@@ -1,112 +1,31 @@
-from selenium.webdriver.common.by import By
-from bfs import get_info
-from selenium import webdriver
-from selenium.webdriver.support.ui import WebDriverWait
-from selenium.webdriver.support import expected_conditions as EC
-from selenium import webdriver
-
-
-def scrapRew(area,city,page):
-
-	# chrome_options = webdriver.ChromeOptions()
-	# prefs = {"profile.managed_default_content_settings.images": 2}
-	# chrome_options.add_experimental_option("prefs", prefs)
-	# driver = webdriver.Chrome(chrome_options=chrome_options)
-
-	# this code disables css and blocks images from loading
-	options = webdriver.ChromeOptions()
-	prefs = {'profile.default_content_setting_values': {'cookies': 2, 'images': 2, 
-	                            'plugins': 2, 'popups': 2, 'geolocation': 2, 
-	                            'notifications': 2, 'auto_select_certificate': 2, 'fullscreen': 2,'protocol_handlers': 2, 
-	                            'ppapi_broker': 2, 'automatic_downloads': 2, 'midi_sysex': 2, 
-	                            'push_messaging': 2, 'ssl_cert_decisions': 2, 'metro_switch_to_desktop': 2, 
-	                            'protected_media_identifier': 2, 'app_banner': 2, 'site_engagement': 2, 
-	                            'durable_storage': 2}}
-	options.add_experimental_option('prefs', prefs)
-	options.add_argument("start-maximized")
-	options.add_argument("disable-infobars")
-	options.add_argument("--disable-extensions")
-	driver = webdriver.Chrome(chrome_options=options)
-
-
-
-
-	url = f'https://www.rew.ca/properties/areas/{area}-{city}-bc/page/{page}'
-	driver.get(url)
-
-	li = {}
-	elements = driver.find_elements_by_class_name('displaypanel-content')
-
-	try:
-		print(
-			f'Loading main page for area: {area.upper()} in city: {city.upper()}, page: {page}'
-		)
-		for i in range(len(elements)):
-
-			try:
-				# wait for the card element to appear
-				cards = WebDriverWait(driver, 10).until(
-					EC.presence_of_all_elements_located((By.CLASS_NAME, 'displaypanel-content')
-					)
-				) 
-
-				# select card element
-				element = driver.find_elements_by_class_name('displaypanel-content')
-				element[i].click()
-
-			except:
-				print(
-					f'Failed to load main page for area: {area.upper()} in city: {city.upper()}, page: {page}'
-				)
-
-			try:
-				# wait for new page to load
-				loaded = WebDriverWait(driver, 10).until(
-					EC.presence_of_all_elements_located((By.CLASS_NAME, 'propertyheader-address')
-					)
-				)
-
-				try:
-					# scrape the data from the page
-					get_info(driver.page_source)
-
-				except:
-					print(
-						f'Failed to scrape data from element number {i} for area: {area.upper()} in city: {city.upper()}, page: {page}'
-					)
-
-				# go back to the main page with the list of elements
-				driver.back()
-
-			except:
-				print(
-					f'Failed to load information page for element number {i} from area:{area.upper()} in city: {city.upper()}, page: {page}'
-				)
-
-	except:
-		print(f'Failed to main page for area: {area.upper()} city: {city.upper()} in page: {page}')
-
-	driver.quit()
-
-
-
-
+from rewScraper import Scraper
+from bfs import Utils
 
 # Interface
-running = True
+# running = True
 
-while running:
-	area = input("Enter area: ").split(',')
-	city = input('Enter city: ')
-	pages = int(input("how many pages would you like to scrape?"))
+# while running:
+# 	area = input("Enter area: ").split(',')
+# 	city = input('Enter city: ')
+# 	pages = int(input("how many pages would you like to scrape?"))
 
-	for a in area:
-		for p in range(1,pages+1):
-			try:
-				scrapRew(a,city,p)
-			except:
-				pass
+# 	for a in area:
+# 		for p in range(1,pages+1):
+# 			try:
+# 				Scraper().scrapeRew(a,city,p)
+# 			except:
+# 				pass
 
-	keep_running = input("Would you like to pass? (y/n)")
-	if keep_running == 'n':
-		running = False
+# 	keep_running = input("Would you like to pass? (y/n)")
+# 	if keep_running == 'n':
+# 		running = False
+
+
+# test Scraper().scrapeRew() function
+Scraper().scrapeRew('arbutus','vancouver', 1)
+
+
+# # test Utils().get_info() function
+# html = open('./rew_page.html', 'r')
+# data = Utils().get_info(html.read())
+# print(data)
