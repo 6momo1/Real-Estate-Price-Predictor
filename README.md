@@ -1,6 +1,6 @@
 # Real Estate Price Predictor
  
-Scraped over 1000 listings from lower mainland in BC and applied Machine Learning models to predict real estate listing home prices.
+Scraped over 1000 listings from lower mainland in BC and applied Machine Learning models to predict real estate listing home prices with an accuracy of 65%.
 
 
 ### technologies used
